@@ -1,0 +1,4816 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="685.645pt" height="230.332887pt" viewBox="0 0 685.645 230.332887" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-12T15:51:47.097540</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 230.332887 
+L 685.645 230.332887 
+L 685.645 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 67.68 166.281688 
+L 226.018462 166.281688 
+L 226.018462 21.129688 
+L 67.68 21.129688 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAApQAAAJdCAYAAACMKOdAAAAc1klEQVR4nO3YUXYrq7IlUPkN979l1Saoj3skZ6KAJLW8z771as4fWxBAkJI81vBX7/+nP/jv1n/7LWqfLbvdx+Y5W/te1PSLs5ZnLOam+07W3K6vxid7VLW763fqyprqzKt1H+z79tzG+VX9Re2qn1Xt29xx3eqOi1536w5zvS/OfUzuMns+07tv3Gd6j/GMi/u2yfys/+N426jpd84p7tYuerrTT7X+k/2v7lqueRR1xdhxvBVjVd0Ha/vOfqeP7c17rNZe3eG5thV7vcZWc4uxtjpnMfc4vO07e5y+znd7/ewe/Z+x56P8nwcAAAQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhA+d+u91/esP3yfn/7nA3LZ7iY6//ldyjvtdvzh3cbn8lHn89hzdtzHuev6lfu9Lvad/U52fwM7datzpr1dNz7o72OS45rdtZPzr69z0UvbeOcq8/jx7XFZ+Oqn6v1d/a/6m+15vKei7FTj5+vLVuozlh5Pddi7KpuPPPo+eirZ/ccW81djW2d8z5U/plb7XG3r527LXroxTqBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAIPL9txtgofdf3Kx9vvR2H5tnbe17UdMvzlqesZib7jtZc7u+Gp/sUdXurt+pK2uGsep+b+uu9q3uMe57qBnXr2qv+nnb60btqafVHT+oe6v9met9tt/iLrO6Pnuus3vfvEvf2KdNamb9H8fbxTn9xjmz81pVG/Zztf+xZnf/6pzT3o/3+auxtqg7jn+wtq/Wvvpf9Ff1Ua1d9VuNHc9sw9jxeY5zu2PLmuP+72f2O3tU78Wnd7vo6znW/xk7f4y7/1ACAJARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACLff7sBBr3/8obts2W3+9g8Z2vfi5p+cdbyjMXcdN/Jmtv1s7OLfaracv3m2q266sxh3duaD/Z9e27j/I36q37e9jq+XtUuevjtusNcX959cu+dmrfXra55TPad3WWnpk1qnr/P9mgX5/QbZ8zOaxfP9Kqf6Vltb//j+O7+VU+nR39csxhrm3UfrO27+7VhrLpHNTauu1pbndmGvU5jd+sXY6e95nP9bl/je/FpD5tj/dhrP489e/cfSgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBA5PtvN8Dj8ej9Fzdrny+93cfGWdt7XtT1xVmXZ0zmV3veXjOrr8aLPaq63bVl7c4Z1ZnDup0ervZ9e2bjfFJ/0ct27aKH1f0+qRvO6n2jbqfmrW5y99m9p3e5WdMmNc/fZ3u0jXN6cc5sfvbMnufM5p/jV/18sv+d+1Z3Oa15FHWPw+/9PJasPa4v1vbV2tOdF+dWZ67W3j2zLcZWc2X94exx7LRuXt939qjes50eZnvcuEc/rPv56h7GXu/Hz5z/UAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIt9/u4H/7/T+yxu2z5bd7mPznK19L2r6xVnLMxZz030na27XV+PFHrP+o/Vto2YYG+/30b4Xe77NJ/UXvWzXLnpY3W/5vBZ1h7neZ3XH8dUzmtTN7r7TY1LTJjWzex7HW1/P9+Kc6RnFee1GP22j3170W52xu//VXU5rqrrF2HH96a3bHFus7Vfnvvq/2fO47k6/49rjsyvHbtQf+1mOzef63b76Rv2qhw/u0Z+99uF18eenH8451vsPJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAg8v23G/hfr/df3Kz9Sz1snrO170VNX5y13H8xN93z7ppJfdnX5Myqdnf9Tl1ZU515te5qfni987zGPU5rLmpX/axqV30vn8Ev1B3mep/VLe6xU3daM7v35Oykpk1qZvc8jre+nu83zpmd16rasJ9P9m8Xz6M657Sm6udx+L2/j7VirKq7ubbv7teG18e6q7Fx7d0zW7HXaWyor8Z2ak5j8zP71jnFM7m8x34PV/foz177+fWp/2puGDv/ufrPmP9QAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARL7/dgP/a/T+i5u1f6GHG2ds7XtR0xfnLfdfzE33nKy5Uz/tqdijqt1dX9btnFGdebX3B/u+PbNx/kb9VT99s3bV8/IZLHqd1S3u0/usbvGMZnXTu9/sMalpk5pZ/8fxVtTM9tg6p7+f1y7mq35m88n+1V1Pa4p9Tmuqfh6H3/v7WCvGqrqba/vufm14fay7GhvX3j2zFXu14rnu1Jd7VDXD3GGsF2PLPXo1t9PXRs/FWD+s+/kYH8Ze78d1/fnP1XmsWuc/lAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAiEAJAEBEoAQAICJQAgAQESgBAIgIlAAARARKAAAiAiUAABGBEgCAyPffbuD/Sb3/0kbtXzh784ytfS9q+uKs5f6LuemekzVl/ay2Gp+cV9Xurn+r26l5PN76ru52tffb/NWe43xSf9HLdu2ih9X9pnWrO/3M9T7Z6+2cWd2sZufewT1mNW2yz6z/43i7qOk3zpmd16rai35m89UZu/vfuWvZ0+N9vhf1p4/BxtrZ2GJt392vDa+vej7d+2a/45mt2Os5tpor6w/njGOndfP6vrNHK57J7b426ouafhj7+Rgfxl7vx3X9+c/Veaxa9zh9Hd7r/YcSAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABARKAEAiAiUAABEBEoAACICJQAAEYESAICIQAkAQESgBAAgIlACABD5/tsN/Ffr/Rc2af/C2ZtnXO55Md8vzpnuv9h3uudkTVk/q63GJ+dVtbvr3+p2aqrzhnW/se/b8xrnD6+vnu1VP31Wu7rXot/V3T6pG87q07tP7rFTc3qd3GXnroff26Rm1v9xvBU1sz22zunv57WL+aqf2fyf3L8657T3433+aqxt1t1c23f3a8PrY93V2Lh2dWa1rl2N9f36T/c8jPWtc4pnstizHtuoL3roh7Gfj/HQ+6Gv19zpKzzUHyb74pxXD4v685/18zm9+w8lAAAhgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACDy/bcb+K/Q+y9s0v7wuRv7b+23qOkXZ0z3n4wv9yvWTOur2lkvxR5Vbbm+3a8p6zbu9rbmg33fntc4f3h9p/bqOWzXLvqd1S2f0959+vTex/GNmre6yb13ekxqWlEz6/843oqa2X2qM3bOa1XtL/TznK/2n61vi/On937OP97nr8b+0NpXe6eei/3aom41dvq437zDc+3xfRnHlnOHPXfGTnvN5/rWOcUz+cUeVmO9De/tcez1PhZz/fz6XP8+Vp3z6qEP51X1xTl3evAfSgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQAAEQESgAAIgIlAAARgRIAgIhACQBARKAEACAiUAIAEBEoAQCICJQ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" id="image146c9d206c" transform="scale(1 -1) translate(0 -145.2)" x="67.68" y="-20.88" width="158.4" height="145.2"/>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 120.415504 166.281688 
+L 120.415504 21.129688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m42e6d4957f" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.9"/>
+      </defs>
+      <g>
+       <use xlink:href="#m42e6d4957f" x="120.415504" y="166.281688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 10 -->
+      <g transform="translate(115.915504 179.715281) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-31" d="M 1825 4450 
+L 1825 650 
+Q 1825 450 1950 350 
+Q 2075 250 2300 250 
+L 2550 250 
+L 2550 100 
+L 725 100 
+L 725 250 
+L 950 250 
+Q 1200 250 1312 350 
+Q 1425 450 1425 650 
+L 1425 3675 
+Q 1425 3775 1362 3837 
+Q 1300 3900 1175 3900 
+L 725 3900 
+L 725 4050 
+L 950 4050 
+Q 1250 4050 1437 4150 
+Q 1625 4250 1725 4450 
+L 1825 4450 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimSun-30" d="M 1600 4225 
+Q 1250 4225 1012 3687 
+Q 775 3150 775 2250 
+Q 775 1300 1012 775 
+Q 1250 250 1600 250 
+Q 1975 250 2187 775 
+Q 2400 1300 2400 2250 
+Q 2400 3150 2200 3687 
+Q 2000 4225 1600 4225 
+z
+M 1600 50 
+Q 1050 50 675 625 
+Q 300 1200 300 2250 
+Q 300 3225 662 3825 
+Q 1025 4425 1600 4425 
+Q 2150 4425 2512 3850 
+Q 2875 3275 2875 2250 
+Q 2875 1225 2512 637 
+Q 2150 50 1600 50 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 173.194991 166.281688 
+L 173.194991 21.129688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m42e6d4957f" x="173.194991" y="166.281688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 20 -->
+      <g transform="translate(168.694991 179.715281) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-32" d="M 2325 3325 
+Q 2325 3775 2125 4012 
+Q 1925 4250 1525 4250 
+Q 1225 4250 1012 4087 
+Q 800 3925 800 3675 
+Q 800 3525 900 3425 
+Q 975 3325 975 3225 
+Q 975 3100 912 3037 
+Q 850 2975 725 2975 
+Q 575 2975 487 3062 
+Q 400 3150 400 3350 
+Q 400 3875 775 4150 
+Q 1150 4425 1575 4425 
+Q 2175 4425 2462 4125 
+Q 2750 3825 2750 3375 
+Q 2750 3075 2612 2775 
+Q 2475 2475 2175 2200 
+Q 1450 1500 1062 1062 
+Q 675 625 600 475 
+L 2075 475 
+Q 2300 475 2450 650 
+Q 2600 825 2650 1175 
+L 2800 1175 
+L 2650 100 
+L 325 100 
+L 325 425 
+Q 450 650 737 1000 
+Q 1025 1350 1500 1825 
+Q 1925 2250 2125 2625 
+Q 2325 3000 2325 3325 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 225.974479 166.281688 
+L 225.974479 21.129688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m42e6d4957f" x="225.974479" y="166.281688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 30 -->
+      <g transform="translate(221.474479 179.715281) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-33" d="M 2800 1250 
+Q 2800 775 2450 412 
+Q 2100 50 1475 50 
+Q 1025 50 700 300 
+Q 375 550 375 875 
+Q 375 1025 475 1137 
+Q 575 1250 675 1250 
+Q 825 1250 887 1137 
+Q 950 1025 950 950 
+Q 950 825 900 750 
+Q 850 650 850 575 
+Q 850 425 1037 325 
+Q 1225 225 1450 225 
+Q 1900 225 2125 487 
+Q 2350 750 2350 1300 
+Q 2350 1750 2112 2025 
+Q 1875 2300 1225 2300 
+L 1225 2475 
+Q 1725 2475 1962 2712 
+Q 2200 2950 2200 3375 
+Q 2200 3725 2012 3987 
+Q 1825 4250 1425 4250 
+Q 1250 4250 1050 4162 
+Q 850 4075 850 3875 
+Q 850 3675 900 3625 
+Q 950 3575 950 3500 
+Q 950 3375 900 3300 
+Q 850 3225 725 3225 
+Q 625 3225 537 3300 
+Q 450 3375 450 3575 
+Q 450 3950 775 4187 
+Q 1100 4425 1525 4425 
+Q 2025 4425 2325 4112 
+Q 2625 3800 2625 3450 
+Q 2625 3075 2437 2812 
+Q 2250 2550 1850 2425 
+Q 2400 2225 2600 1900 
+Q 2800 1575 2800 1250 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-33"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_4">
+     <!-- 时间 $t$ / min -->
+     <g transform="translate(115.059231 193.467469) scale(0.11 -0.11)">
+      <defs>
+       <path id="SimSun-65f6" d="M 4500 3600 
+Q 4500 4575 4475 5225 
+L 5100 4900 
+L 4850 4725 
+L 4850 3600 
+L 5225 3600 
+L 5550 3925 
+L 6025 3450 
+L 4850 3450 
+L 4850 100 
+Q 4850 -375 4300 -575 
+Q 4275 -200 3475 -25 
+L 3475 100 
+Q 4150 0 4325 25 
+Q 4500 50 4500 325 
+L 4500 3450 
+L 3200 3450 
+Q 2875 3450 2600 3375 
+L 2375 3600 
+L 4500 3600 
+z
+M 2875 2825 
+Q 3525 2375 3637 2200 
+Q 3750 2025 3750 1925 
+Q 3750 1800 3637 1637 
+Q 3525 1475 3475 1475 
+Q 3400 1475 3325 1775 
+Q 3200 2225 2800 2750 
+L 2875 2825 
+z
+M 925 4150 
+L 925 2650 
+L 1950 2650 
+L 1950 4150 
+L 925 4150 
+z
+M 925 2500 
+L 925 900 
+L 1950 900 
+L 1950 2500 
+L 925 2500 
+z
+M 2300 2000 
+Q 2300 800 2325 450 
+L 1950 250 
+L 1950 750 
+L 925 750 
+L 925 225 
+L 550 25 
+Q 575 825 575 2425 
+Q 575 4025 550 4500 
+L 950 4300 
+L 1900 4300 
+L 2100 4550 
+L 2500 4225 
+L 2300 4050 
+L 2300 2000 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-95f4" d="M 2150 525 
+Q 2175 1325 2175 2112 
+Q 2175 2900 2150 3675 
+L 2525 3450 
+L 3750 3450 
+L 4000 3700 
+L 4325 3375 
+L 4125 3200 
+Q 4125 1550 4150 775 
+L 3800 575 
+L 3800 975 
+L 2500 975 
+L 2500 700 
+L 2150 525 
+z
+M 2500 3300 
+L 2500 2325 
+L 3800 2325 
+L 3800 3300 
+L 2500 3300 
+z
+M 2500 2175 
+L 2500 1125 
+L 3800 1125 
+L 3800 2175 
+L 2500 2175 
+z
+M 1275 5200 
+Q 1850 4825 1950 4675 
+Q 2050 4525 2050 4425 
+Q 2050 4275 1950 4137 
+Q 1850 4000 1825 4000 
+Q 1750 4000 1675 4275 
+Q 1550 4650 1200 5125 
+L 1275 5200 
+z
+M 1125 425 
+Q 1125 25 1150 -375 
+L 750 -525 
+Q 775 -150 775 1950 
+Q 775 4050 750 4425 
+L 1350 4125 
+L 1125 3975 
+L 1125 425 
+z
+M 4225 125 
+Q 5025 0 5125 37 
+Q 5225 75 5225 250 
+L 5225 4450 
+L 3225 4450 
+Q 2900 4450 2625 4375 
+L 2400 4600 
+L 5175 4600 
+L 5425 4850 
+L 5775 4500 
+L 5575 4350 
+L 5575 225 
+Q 5575 -100 5462 -250 
+Q 5350 -400 5000 -550 
+Q 4800 -125 4225 25 
+L 4225 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-20" d="M 0 0 
+Q 0 0 0 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="STIXGeneral-Italic-74" d="M 1894 2739 
+L 1862 2534 
+L 1325 2534 
+L 768 435 
+Q 755 384 755 346 
+Q 755 243 851 243 
+Q 928 243 1030 342 
+Q 1133 442 1370 749 
+L 1453 704 
+Q 1158 256 969 93 
+Q 781 -70 538 -70 
+Q 243 -70 243 166 
+Q 243 230 346 640 
+L 845 2534 
+L 365 2534 
+L 358 2573 
+Q 358 2688 570 2733 
+Q 730 2771 992 2979 
+Q 1254 3187 1421 3437 
+Q 1459 3494 1510 3494 
+Q 1568 3494 1568 3443 
+Q 1568 3411 1562 3398 
+L 1382 2739 
+L 1894 2739 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-2f" d="M 400 -475 
+L 225 -375 
+L 2775 4975 
+L 2950 4875 
+L 400 -475 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-6d" d="M 175 2900 
+Q 300 2900 425 2925 
+Q 550 2950 625 3000 
+L 675 3000 
+L 675 2575 
+Q 800 2775 950 2862 
+Q 1100 2950 1275 2950 
+Q 1500 2950 1625 2862 
+Q 1750 2775 1775 2575 
+Q 1900 2775 2062 2862 
+Q 2225 2950 2400 2950 
+Q 2700 2950 2812 2775 
+Q 2925 2600 2925 2325 
+L 2925 425 
+Q 2925 325 2975 287 
+Q 3025 250 3125 250 
+L 3175 250 
+L 3175 100 
+L 2325 100 
+L 2325 250 
+L 2375 250 
+Q 2475 250 2525 287 
+Q 2575 325 2575 425 
+L 2575 2300 
+Q 2575 2575 2512 2662 
+Q 2450 2750 2325 2750 
+Q 2150 2750 2012 2625 
+Q 1875 2500 1800 2275 
+L 1800 425 
+Q 1800 325 1850 287 
+Q 1900 250 2000 250 
+L 2050 250 
+L 2050 100 
+L 1200 100 
+L 1200 250 
+L 1250 250 
+Q 1350 250 1400 287 
+Q 1450 325 1450 425 
+L 1450 2300 
+Q 1450 2525 1400 2637 
+Q 1350 2750 1200 2750 
+Q 1025 2750 887 2625 
+Q 750 2500 675 2250 
+L 675 425 
+Q 675 325 725 287 
+Q 775 250 875 250 
+L 925 250 
+L 925 100 
+L 75 100 
+L 75 250 
+L 125 250 
+Q 225 250 275 287 
+Q 325 325 325 425 
+L 325 2600 
+Q 325 2675 300 2712 
+Q 275 2750 200 2750 
+L 100 2750 
+L 100 2900 
+L 175 2900 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-69" d="M 1425 2525 
+Q 1425 2625 1375 2687 
+Q 1325 2750 1200 2750 
+L 675 2750 
+L 675 2900 
+L 925 2900 
+Q 1150 2900 1350 2937 
+Q 1550 2975 1725 3075 
+L 1775 3075 
+L 1775 450 
+Q 1775 350 1837 300 
+Q 1900 250 2000 250 
+L 2525 250 
+L 2525 100 
+L 675 100 
+L 675 250 
+L 1200 250 
+Q 1325 250 1375 300 
+Q 1425 350 1425 450 
+L 1425 2525 
+z
+M 1725 3025 
+L 1725 3025 
+z
+M 1625 4425 
+Q 1750 4425 1850 4337 
+Q 1950 4250 1950 4125 
+Q 1950 4000 1850 3900 
+Q 1750 3800 1625 3800 
+Q 1500 3800 1400 3900 
+Q 1300 4000 1300 4125 
+Q 1300 4250 1400 4337 
+Q 1500 4425 1625 4425 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-6e" d="M 200 100 
+L 200 250 
+L 325 250 
+Q 450 250 500 300 
+Q 550 350 550 450 
+L 550 2600 
+Q 550 2675 525 2712 
+Q 500 2750 425 2750 
+L 225 2750 
+L 225 2900 
+L 400 2900 
+Q 525 2900 637 2925 
+Q 750 2950 850 3025 
+L 900 3025 
+L 900 2450 
+Q 1125 2700 1350 2825 
+Q 1575 2950 1825 2950 
+Q 2250 2950 2450 2725 
+Q 2650 2500 2650 2050 
+L 2650 450 
+Q 2650 350 2712 300 
+Q 2775 250 2875 250 
+L 3000 250 
+L 3000 100 
+L 1950 100 
+L 1950 250 
+L 2075 250 
+Q 2200 250 2250 300 
+Q 2300 350 2300 450 
+L 2300 2125 
+Q 2300 2425 2175 2587 
+Q 2050 2750 1800 2750 
+Q 1575 2750 1337 2600 
+Q 1100 2450 900 2175 
+L 900 450 
+Q 900 350 962 300 
+Q 1025 250 1125 250 
+L 1250 250 
+L 1250 100 
+L 200 100 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimSun-65f6" transform="translate(0 0.359375)"/>
+      <use xlink:href="#SimSun-95f4" transform="translate(100 0.359375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(200 0.359375)"/>
+      <use xlink:href="#STIXGeneral-Italic-74" transform="translate(250 0.359375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(277.799988 0.359375)"/>
+      <use xlink:href="#SimSun-2f" transform="translate(327.799988 0.359375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(377.799988 0.359375)"/>
+      <use xlink:href="#SimSun-6d" transform="translate(427.799988 0.359375)"/>
+      <use xlink:href="#SimSun-69" transform="translate(477.799988 0.359375)"/>
+      <use xlink:href="#SimSun-6e" transform="translate(527.799988 0.359375)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <path d="M 67.68 162.825688 
+L 226.018462 162.825688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_8">
+      <defs>
+       <path id="m1ec56c52ce" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.9"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="67.68" y="162.825688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 0.0 -->
+      <g transform="translate(47.18 166.042484) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-2e" d="M 800 25 
+Q 650 25 537 125 
+Q 425 225 425 400 
+Q 425 575 537 675 
+Q 650 775 800 775 
+Q 950 775 1062 662 
+Q 1175 550 1175 400 
+Q 1175 225 1062 125 
+Q 950 25 800 25 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <path d="M 67.68 128.265688 
+L 226.018462 128.265688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="67.68" y="128.265688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0.5 -->
+      <g transform="translate(47.18 131.482484) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-35" d="M 1725 2850 
+Q 2200 2850 2500 2487 
+Q 2800 2125 2800 1525 
+Q 2800 850 2487 450 
+Q 2175 50 1525 50 
+Q 1075 50 725 312 
+Q 375 575 375 950 
+Q 375 1100 462 1212 
+Q 550 1325 700 1325 
+Q 850 1325 900 1225 
+Q 950 1125 950 1050 
+Q 950 900 875 825 
+Q 800 725 800 625 
+Q 800 425 1037 325 
+Q 1275 225 1550 225 
+Q 1950 225 2162 550 
+Q 2375 875 2375 1475 
+Q 2375 1975 2187 2287 
+Q 2000 2600 1625 2600 
+Q 1350 2600 1150 2500 
+Q 950 2400 775 2075 
+L 550 2100 
+L 675 4375 
+L 2725 4375 
+L 2650 4000 
+L 850 4000 
+L 750 2350 
+Q 1000 2700 1237 2775 
+Q 1475 2850 1725 2850 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <path d="M 67.68 93.705688 
+L 226.018462 93.705688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="67.68" y="93.705688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 1.0 -->
+      <g transform="translate(47.18 96.922484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 67.68 59.145688 
+L 226.018462 59.145688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="67.68" y="59.145688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 1.5 -->
+      <g transform="translate(47.18 62.362484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 67.68 24.585688 
+L 226.018462 24.585688 
+" clip-path="url(#p8cd74d5b80)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="67.68" y="24.585688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 2.0 -->
+      <g transform="translate(47.18 27.802484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_10">
+     <!-- 到药材中心距离 $r$ / cm -->
+     <g transform="translate(41.762031 150.850688) rotate(-90) scale(0.11 -0.11)">
+      <defs>
+       <path id="SimSun-5230" d="M 1975 1725 
+L 1975 2900 
+Q 1075 2775 900 2625 
+L 675 3075 
+Q 1025 3100 1400 3575 
+Q 1775 4050 2000 4550 
+L 1350 4550 
+Q 1025 4550 750 4475 
+L 525 4700 
+L 3050 4700 
+L 3375 5025 
+L 3850 4550 
+L 2100 4550 
+L 2550 4275 
+Q 2250 4175 1925 3825 
+Q 1575 3450 1150 3075 
+L 3150 3125 
+Q 2925 3475 2575 3850 
+L 2650 3925 
+Q 3700 3200 3750 2950 
+Q 3800 2700 3675 2575 
+Q 3550 2450 3500 2450 
+Q 3450 2450 3425 2550 
+Q 3350 2725 3200 3000 
+Q 2650 2950 2125 2900 
+L 2525 2700 
+L 2325 2525 
+L 2325 1725 
+L 3000 1725 
+L 3300 2025 
+L 3750 1575 
+L 2325 1575 
+L 2325 375 
+L 3750 650 
+L 3775 525 
+Q 925 -200 700 -425 
+L 425 75 
+Q 850 125 1975 300 
+L 1975 1575 
+L 1025 1575 
+L 725 1525 
+L 525 1725 
+L 1975 1725 
+z
+M 4550 3900 
+L 4550 1575 
+Q 4550 1325 4575 900 
+L 4200 750 
+Q 4225 1575 4225 2612 
+Q 4225 3650 4200 4375 
+L 4775 4075 
+L 4550 3900 
+z
+M 4375 -75 
+L 4375 50 
+Q 4750 0 5075 0 
+Q 5250 0 5350 37 
+Q 5450 75 5425 400 
+L 5425 4325 
+Q 5425 4700 5400 5175 
+L 5950 4925 
+L 5750 4750 
+L 5750 175 
+Q 5775 -450 5200 -625 
+Q 5150 -250 4375 -75 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-836f" d="M 500 -25 
+Q 850 0 1537 100 
+Q 2225 200 3050 350 
+L 3075 275 
+Q 2325 50 1600 -150 
+Q 850 -350 750 -500 
+L 500 -25 
+z
+M 1300 1150 
+Q 1675 1175 2850 1300 
+L 2875 1225 
+Q 2275 1100 1737 937 
+Q 1200 775 1000 600 
+L 700 1100 
+Q 975 1125 1287 1437 
+Q 1600 1750 1975 2250 
+Q 975 2125 775 1900 
+L 500 2350 
+Q 800 2375 1187 2887 
+Q 1575 3400 1750 3900 
+L 2225 3550 
+Q 2025 3500 1725 3125 
+Q 1400 2750 950 2325 
+Q 1225 2350 2050 2375 
+Q 2400 2825 2525 3150 
+L 2975 2775 
+Q 2750 2725 2325 2250 
+Q 1900 1750 1300 1150 
+z
+M 3775 3725 
+L 4300 3425 
+Q 4125 3375 3825 2800 
+L 5225 2800 
+L 5425 3075 
+L 5825 2725 
+L 5600 2550 
+Q 5550 1125 5500 600 
+Q 5450 75 5325 -200 
+Q 5200 -475 4725 -625 
+Q 4750 -300 3950 -50 
+L 3950 50 
+Q 4625 -50 4812 -50 
+Q 5000 -50 5087 250 
+Q 5175 550 5250 2650 
+L 3750 2650 
+Q 3300 1950 2775 1475 
+L 2725 1550 
+Q 3075 1975 3375 2600 
+Q 3675 3225 3775 3725 
+z
+M 3425 1850 
+L 3500 1900 
+Q 4075 1550 4212 1400 
+Q 4350 1250 4350 1150 
+Q 4350 1050 4250 887 
+Q 4150 725 4100 725 
+Q 4025 725 3975 950 
+Q 3850 1300 3425 1850 
+z
+M 2100 3700 
+L 2100 4275 
+L 1150 4275 
+Q 825 4275 550 4200 
+L 325 4425 
+L 2100 4425 
+Q 2100 4825 2075 5200 
+L 2700 4950 
+L 2475 4775 
+L 2475 4425 
+L 3800 4425 
+Q 3800 4825 3775 5200 
+L 4400 4950 
+L 4175 4775 
+L 4175 4425 
+L 5125 4425 
+L 5575 4825 
+L 6100 4275 
+L 4175 4275 
+L 4175 3925 
+L 3800 3750 
+L 3800 4275 
+L 2475 4275 
+L 2475 3875 
+L 2100 3700 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-6750" d="M 3750 75 
+Q 4325 -25 4537 -12 
+Q 4750 0 4750 225 
+L 4750 2800 
+Q 3975 1375 2600 525 
+L 2525 600 
+Q 3875 1625 4675 3550 
+L 3650 3550 
+L 3425 3500 
+L 3225 3700 
+L 4750 3700 
+Q 4750 4500 4725 5250 
+L 5350 4975 
+L 5125 4800 
+L 5125 3700 
+L 5425 3700 
+L 5725 4000 
+L 6175 3550 
+L 5125 3550 
+L 5125 -25 
+Q 5125 -400 4575 -625 
+Q 4575 -300 3750 -50 
+L 3750 75 
+z
+M 1950 2925 
+Q 1950 0 1975 -500 
+L 1550 -675 
+Q 1575 500 1575 2375 
+Q 1200 1450 325 550 
+L 250 625 
+Q 1125 1750 1575 3525 
+L 675 3525 
+L 450 3475 
+L 250 3675 
+L 1575 3675 
+Q 1575 4500 1550 5250 
+L 2175 4950 
+L 1950 4750 
+L 1950 3675 
+L 2375 3675 
+L 2675 3975 
+L 3125 3525 
+L 1950 3525 
+L 1950 3050 
+Q 2575 2725 2762 2550 
+Q 2950 2375 2950 2200 
+Q 2950 2125 2887 1962 
+Q 2825 1800 2775 1800 
+Q 2675 1800 2550 2100 
+Q 2350 2550 1950 2925 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-4e2d" d="M 3325 3625 
+L 3325 1975 
+L 5125 1975 
+L 5125 3625 
+L 3325 3625 
+z
+M 2950 3775 
+Q 2950 4750 2925 5250 
+L 3525 4975 
+L 3325 4775 
+L 3325 3775 
+L 5075 3775 
+L 5275 4075 
+L 5700 3750 
+L 5475 3550 
+L 5475 2100 
+Q 5475 1825 5500 1525 
+L 5125 1375 
+L 5125 1825 
+L 3325 1825 
+Q 3325 -75 3350 -400 
+L 2925 -625 
+Q 2950 -50 2950 1825 
+L 1225 1825 
+L 1225 1525 
+L 850 1325 
+Q 875 1775 875 2625 
+Q 875 3475 850 4000 
+L 1225 3775 
+L 2950 3775 
+z
+M 1225 3625 
+L 1225 1975 
+L 2950 1975 
+L 2950 3625 
+L 1225 3625 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-5fc3" d="M 2750 4875 
+Q 3350 4525 3625 4275 
+Q 3900 4025 3862 3762 
+Q 3825 3500 3725 3412 
+Q 3625 3325 3575 3325 
+Q 3450 3325 3350 3675 
+Q 3200 4125 2675 4800 
+L 2750 4875 
+z
+M 2025 3800 
+L 2650 3475 
+L 2425 3275 
+L 2425 725 
+Q 2400 225 2775 200 
+L 4200 200 
+Q 4475 225 4537 625 
+Q 4600 1025 4625 1675 
+L 4750 1675 
+Q 4750 1000 4812 687 
+Q 4875 375 5150 275 
+Q 4950 -125 4425 -125 
+L 2575 -125 
+Q 2000 -100 2050 625 
+L 2050 2675 
+Q 2050 3325 2025 3800 
+z
+M 1225 2900 
+L 1350 2900 
+Q 1350 2100 1300 1725 
+Q 1250 1350 1087 1225 
+Q 925 1100 775 1100 
+Q 700 1100 587 1137 
+Q 475 1175 475 1250 
+Q 475 1375 700 1625 
+Q 1025 2000 1225 2900 
+z
+M 4850 2925 
+L 4925 2975 
+Q 5675 2300 5825 2050 
+Q 5975 1800 5925 1550 
+Q 5875 1300 5775 1237 
+Q 5675 1175 5625 1175 
+Q 5500 1175 5450 1525 
+Q 5375 1975 4850 2925 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-8ddd" d="M 1075 4550 
+L 1075 3175 
+L 2275 3175 
+L 2275 4550 
+L 1075 4550 
+z
+M 1850 550 
+L 2900 875 
+L 2925 775 
+Q 2150 450 1500 200 
+Q 825 -75 500 -325 
+L 225 100 
+L 675 225 
+Q 675 1900 650 2425 
+L 1175 2125 
+L 975 2000 
+L 975 300 
+L 1550 475 
+L 1550 3025 
+L 1075 3025 
+L 1075 2825 
+L 750 2700 
+Q 775 3250 775 3812 
+Q 775 4375 750 4900 
+L 1075 4700 
+L 2250 4700 
+L 2475 4925 
+L 2775 4625 
+L 2575 4475 
+Q 2575 3350 2600 3000 
+L 2275 2825 
+L 2275 3025 
+L 1850 3025 
+L 1850 2050 
+L 2175 2050 
+L 2425 2300 
+L 2800 1900 
+L 1850 1900 
+L 1850 550 
+z
+M 5450 3025 
+Q 5450 1650 5475 1350 
+L 5125 1200 
+L 5125 1575 
+L 3500 1575 
+L 3500 25 
+L 5375 25 
+L 5675 325 
+L 6100 -125 
+L 3550 -125 
+L 3325 -350 
+L 2950 -25 
+L 3175 125 
+L 3175 3975 
+Q 3175 4350 3150 4900 
+L 3500 4675 
+L 5225 4675 
+L 5500 4950 
+L 5900 4525 
+L 3500 4525 
+L 3500 3300 
+L 5100 3300 
+L 5325 3525 
+L 5650 3200 
+L 5450 3025 
+z
+M 3500 3150 
+L 3500 1725 
+L 5125 1725 
+L 5125 3150 
+L 3500 3150 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-79bb" d="M 2625 5200 
+L 2650 5275 
+Q 3225 5150 3375 5012 
+Q 3525 4875 3525 4775 
+Q 3525 4650 3375 4475 
+L 5200 4475 
+L 5550 4800 
+L 6025 4325 
+L 1175 4325 
+Q 850 4325 575 4250 
+L 350 4475 
+L 3200 4475 
+Q 3125 4700 3000 4862 
+Q 2875 5025 2625 5200 
+z
+M 2200 725 
+L 4025 750 
+Q 3775 1075 3475 1300 
+L 3525 1375 
+Q 4275 1050 4425 875 
+Q 4575 700 4575 550 
+Q 4575 450 4525 325 
+Q 4475 200 4425 200 
+Q 4375 200 4350 275 
+Q 4250 425 4125 625 
+Q 3000 550 2600 487 
+Q 2200 425 2000 275 
+L 1750 775 
+Q 1950 775 2187 987 
+Q 2425 1200 2725 1675 
+L 1225 1675 
+Q 1225 -200 1250 -475 
+L 875 -625 
+Q 900 200 900 737 
+Q 900 1275 875 2050 
+L 1225 1825 
+L 2800 1825 
+Q 3000 2150 3100 2400 
+L 1775 2400 
+L 1625 2200 
+L 1275 2475 
+L 1425 2625 
+Q 1425 3250 1400 4125 
+L 1950 3900 
+L 1750 3700 
+L 1750 2550 
+L 4600 2550 
+Q 4600 3100 4575 4100 
+L 5150 3850 
+L 4925 3675 
+Q 4950 2500 4950 2275 
+L 4600 2125 
+L 4600 2400 
+L 3175 2400 
+L 3575 2175 
+Q 3275 2000 3150 1825 
+L 5125 1825 
+L 5300 2075 
+L 5700 1750 
+L 5500 1600 
+L 5500 125 
+Q 5550 -425 4950 -600 
+Q 4950 -275 4175 -100 
+L 4175 0 
+Q 4900 -50 5037 -50 
+Q 5175 -50 5175 75 
+L 5175 1675 
+L 3075 1675 
+Q 2625 1100 2200 725 
+z
+M 3275 3650 
+Q 3625 3925 3825 4200 
+L 4150 3850 
+Q 3925 3800 3500 3525 
+Q 4025 3300 4125 3175 
+Q 4225 3050 4225 2900 
+Q 4225 2825 4187 2725 
+Q 4150 2625 4125 2625 
+Q 4050 2625 3950 2800 
+Q 3750 3050 3300 3325 
+Q 2675 2950 1975 2700 
+L 1950 2775 
+Q 2600 3100 3100 3475 
+Q 2725 3700 2150 3975 
+L 2175 4050 
+Q 2750 3875 3275 3650 
+z
+" transform="scale(0.015625)"/>
+       <path id="STIXGeneral-Italic-72" d="M 1126 1427 
+L 1229 1651 
+Q 1446 2131 1830 2534 
+Q 2106 2822 2336 2822 
+Q 2470 2822 2553 2732 
+Q 2637 2643 2637 2496 
+Q 2637 2349 2557 2249 
+Q 2477 2150 2336 2150 
+Q 2214 2150 2112 2317 
+Q 2061 2406 2010 2406 
+Q 1837 2406 1485 1805 
+Q 1267 1434 1136 1104 
+Q 1005 774 774 0 
+L 288 0 
+L 806 1869 
+Q 909 2246 909 2394 
+Q 909 2560 666 2560 
+Q 614 2560 467 2541 
+L 467 2650 
+L 1459 2822 
+L 1478 2810 
+L 1126 1427 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-63" d="M 2150 2225 
+Q 2150 2300 2175 2325 
+Q 2175 2350 2200 2425 
+Q 2225 2525 2100 2662 
+Q 1975 2800 1675 2800 
+Q 1300 2800 1037 2437 
+Q 775 2075 775 1475 
+Q 775 925 1000 587 
+Q 1225 250 1750 250 
+Q 2100 250 2337 475 
+Q 2575 700 2675 1000 
+L 2800 950 
+Q 2700 575 2425 312 
+Q 2150 50 1675 50 
+Q 1075 50 725 425 
+Q 375 800 375 1500 
+Q 375 2125 750 2537 
+Q 1125 2950 1725 2950 
+Q 2150 2950 2387 2725 
+Q 2625 2500 2625 2275 
+Q 2625 2125 2562 2062 
+Q 2500 2000 2375 2000 
+Q 2275 2000 2212 2062 
+Q 2150 2125 2150 2225 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimSun-5230" transform="translate(0 0.578125)"/>
+      <use xlink:href="#SimSun-836f" transform="translate(100 0.578125)"/>
+      <use xlink:href="#SimSun-6750" transform="translate(200 0.578125)"/>
+      <use xlink:href="#SimSun-4e2d" transform="translate(300 0.578125)"/>
+      <use xlink:href="#SimSun-5fc3" transform="translate(400 0.578125)"/>
+      <use xlink:href="#SimSun-8ddd" transform="translate(500 0.578125)"/>
+      <use xlink:href="#SimSun-79bb" transform="translate(600 0.578125)"/>
+      <use xlink:href="#SimSun-20" transform="translate(700 0.578125)"/>
+      <use xlink:href="#STIXGeneral-Italic-72" transform="translate(750 0.578125)"/>
+      <use xlink:href="#SimSun-20" transform="translate(788.899994 0.578125)"/>
+      <use xlink:href="#SimSun-2f" transform="translate(838.899994 0.578125)"/>
+      <use xlink:href="#SimSun-20" transform="translate(888.899994 0.578125)"/>
+      <use xlink:href="#SimSun-63" transform="translate(938.899994 0.578125)"/>
+      <use xlink:href="#SimSun-6d" transform="translate(988.899994 0.578125)"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 67.68 166.281688 
+L 67.68 21.129688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 226.018462 166.281688 
+L 226.018462 21.129688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 67.68 166.281688 
+L 226.018462 166.281688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 67.68 21.129688 
+L 226.018462 21.129688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <!-- (a) 温度场 -->
+    <g transform="translate(121.849231 15.129688) scale(0.1 -0.1)">
+     <defs>
+      <path id="SimSun-28" d="M 2900 5025 
+Q 2325 4425 2037 3737 
+Q 1750 3050 1750 2300 
+Q 1750 1525 2037 850 
+Q 2325 175 2900 -425 
+L 2775 -550 
+Q 2075 75 1725 787 
+Q 1375 1500 1375 2300 
+Q 1375 3075 1725 3787 
+Q 2075 4500 2775 5150 
+L 2900 5025 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-61" d="M 1225 75 
+Q 775 75 525 287 
+Q 275 500 275 775 
+Q 275 1225 662 1512 
+Q 1050 1800 2200 1925 
+L 2200 2225 
+Q 2200 2475 2087 2637 
+Q 1975 2800 1575 2800 
+Q 1150 2800 975 2662 
+Q 800 2525 850 2375 
+Q 875 2325 875 2275 
+Q 875 2225 837 2150 
+Q 800 2075 650 2075 
+Q 550 2075 487 2137 
+Q 425 2200 425 2325 
+Q 425 2550 750 2750 
+Q 1075 2950 1550 2950 
+Q 2050 2950 2300 2762 
+Q 2550 2575 2550 2225 
+L 2550 575 
+Q 2550 375 2587 337 
+Q 2625 300 2725 300 
+Q 2850 300 2900 412 
+Q 2950 525 2950 725 
+L 3075 725 
+Q 3075 375 2950 237 
+Q 2825 100 2625 100 
+Q 2450 100 2350 175 
+Q 2250 250 2200 425 
+Q 1950 250 1737 162 
+Q 1525 75 1225 75 
+z
+M 700 850 
+Q 700 625 837 437 
+Q 975 250 1275 250 
+Q 1500 250 1725 337 
+Q 1950 425 2200 600 
+L 2200 1775 
+Q 1350 1675 1025 1437 
+Q 700 1200 700 850 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-29" d="M 275 5025 
+L 400 5150 
+Q 1100 4500 1450 3787 
+Q 1800 3075 1800 2300 
+Q 1800 1500 1450 787 
+Q 1100 75 400 -550 
+L 275 -425 
+Q 850 175 1137 850 
+Q 1425 1525 1425 2300 
+Q 1425 3050 1137 3737 
+Q 850 4425 275 5025 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-6e29" d="M 2775 4575 
+L 2775 3800 
+L 4750 3800 
+L 4750 4575 
+L 2775 4575 
+z
+M 2775 3650 
+L 2775 2750 
+L 4750 2750 
+L 4750 3650 
+L 2775 3650 
+z
+M 2350 1700 
+L 2350 -175 
+L 3075 -175 
+L 3075 1700 
+L 2350 1700 
+z
+M 3375 1700 
+L 3375 -175 
+L 4075 -175 
+L 4075 1700 
+L 3375 1700 
+z
+M 4375 1700 
+L 4375 -175 
+L 5100 -175 
+L 5100 1700 
+L 4375 1700 
+z
+M 2425 2250 
+Q 2450 2725 2450 3700 
+Q 2450 4675 2425 4975 
+L 2775 4725 
+L 4700 4725 
+L 4875 4975 
+L 5250 4700 
+L 5075 4550 
+Q 5075 3050 5100 2450 
+L 4750 2325 
+L 4750 2600 
+L 2775 2600 
+L 2775 2400 
+L 2425 2250 
+z
+M 2000 2075 
+L 2350 1850 
+L 5075 1850 
+L 5225 2075 
+L 5600 1800 
+L 5425 1625 
+L 5425 -175 
+L 5500 -175 
+L 5800 125 
+L 6175 -325 
+L 2175 -325 
+Q 1850 -325 1575 -400 
+L 1350 -175 
+L 2025 -175 
+L 2025 1475 
+Q 2025 1725 2000 2075 
+z
+M 2125 4175 
+Q 1400 1425 1337 1112 
+Q 1275 800 1262 350 
+Q 1250 -100 1275 -275 
+Q 1275 -375 1175 -375 
+Q 1075 -375 912 -312 
+Q 750 -250 750 -75 
+Q 750 75 825 300 
+Q 900 550 900 700 
+Q 900 850 787 950 
+Q 675 1050 300 1150 
+L 300 1250 
+Q 750 1200 850 1212 
+Q 950 1225 1087 1437 
+Q 1225 1650 2025 4200 
+L 2125 4175 
+z
+M 375 3600 
+Q 1050 3300 1100 3100 
+Q 1150 2900 1050 2762 
+Q 950 2625 900 2625 
+Q 850 2625 800 2800 
+Q 700 3050 325 3550 
+L 375 3600 
+z
+M 850 5000 
+Q 1325 4825 1475 4700 
+Q 1625 4575 1625 4450 
+Q 1625 4350 1562 4212 
+Q 1500 4075 1450 4075 
+Q 1400 4075 1325 4250 
+Q 1175 4525 800 4950 
+L 850 5000 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-5ea6" d="M 2550 2025 
+Q 2575 2525 2575 3175 
+L 1925 3175 
+L 1625 3125 
+L 1425 3325 
+L 2575 3325 
+Q 2575 3700 2550 4150 
+L 3100 3875 
+L 2900 3750 
+L 2900 3325 
+L 4300 3325 
+Q 4300 3750 4275 4125 
+L 4850 3875 
+L 4625 3725 
+L 4625 3325 
+L 5100 3325 
+L 5425 3650 
+L 5900 3175 
+L 4625 3175 
+Q 4625 2450 4650 2225 
+L 4300 2075 
+L 4300 2300 
+L 2900 2300 
+L 2900 2175 
+L 2550 2025 
+z
+M 4875 1500 
+Q 4300 775 3900 425 
+Q 4700 -75 6025 -125 
+L 6025 -225 
+Q 5625 -300 5550 -550 
+Q 4375 -325 3675 225 
+Q 2475 -450 1075 -625 
+L 1050 -525 
+Q 2375 -275 3450 450 
+Q 2975 925 2575 1625 
+L 2325 1625 
+L 2100 1575 
+L 1900 1775 
+L 4525 1775 
+L 4750 2000 
+L 5125 1625 
+L 4875 1500 
+z
+M 2700 1625 
+Q 3175 975 3650 625 
+Q 4150 1100 4500 1625 
+L 2700 1625 
+z
+M 2900 3175 
+L 2900 2450 
+L 4300 2450 
+L 4300 3175 
+L 2900 3175 
+z
+M 975 4650 
+L 1400 4400 
+L 3375 4400 
+Q 3350 4550 3262 4725 
+Q 3175 4900 2900 5225 
+L 2975 5275 
+Q 3550 5025 3637 4887 
+Q 3725 4750 3725 4725 
+Q 3725 4575 3525 4400 
+L 5150 4400 
+L 5500 4750 
+L 6000 4250 
+L 1375 4250 
+Q 1400 2750 1287 1912 
+Q 1175 1075 925 475 
+Q 675 -125 300 -625 
+L 225 -575 
+Q 725 300 862 1250 
+Q 1000 2200 1012 3187 
+Q 1025 4175 975 4650 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-573a" d="M 5375 2775 
+L 5625 3025 
+L 6000 2650 
+L 5775 2500 
+Q 5675 775 5575 300 
+Q 5475 -175 5237 -362 
+Q 5000 -550 4775 -625 
+Q 4675 -225 3975 0 
+L 4000 100 
+Q 4450 0 4787 -37 
+Q 5125 -75 5225 450 
+Q 5325 975 5425 2625 
+L 4900 2625 
+Q 4600 1225 3850 500 
+Q 3100 -225 2025 -575 
+L 2000 -475 
+Q 3000 -25 3637 725 
+Q 4275 1475 4500 2625 
+L 3950 2625 
+Q 3750 1975 3350 1387 
+Q 2950 800 1975 300 
+L 1925 400 
+Q 2525 775 2950 1350 
+Q 3375 1925 3550 2625 
+L 2975 2625 
+L 2750 2475 
+L 2475 2825 
+L 2750 2925 
+Q 3725 3750 4550 4625 
+L 2975 4625 
+L 2700 4575 
+L 2500 4775 
+L 4550 4775 
+L 4800 5025 
+L 5200 4675 
+L 4950 4550 
+Q 3975 3550 3025 2775 
+L 5375 2775 
+z
+M 1675 1250 
+L 2725 1725 
+L 2750 1625 
+Q 925 600 550 250 
+L 225 700 
+Q 625 825 1300 1100 
+L 1300 3250 
+L 1100 3250 
+Q 775 3250 500 3175 
+L 275 3400 
+L 1300 3400 
+L 1300 4225 
+Q 1300 4650 1275 5175 
+L 1900 4875 
+L 1675 4650 
+L 1675 3400 
+L 2050 3400 
+L 2325 3675 
+L 2750 3250 
+L 1675 3250 
+L 1675 1250 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SimSun-28"/>
+     <use xlink:href="#SimSun-61" x="50"/>
+     <use xlink:href="#SimSun-29" x="100"/>
+     <use xlink:href="#SimSun-20" x="150"/>
+     <use xlink:href="#SimSun-6e29" x="200"/>
+     <use xlink:href="#SimSun-5ea6" x="300"/>
+     <use xlink:href="#SimSun-573a" x="400"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 323.310769 166.281688 
+L 481.649231 166.281688 
+L 481.649231 21.129688 
+L 323.310769 21.129688 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAApQAAAJdCAYAAACMKOdAAAARFUlEQVR4nO3YWW7jWIJAUT7ZNaCB3kADva/a/0ZUHw5HyBJHXdlyRJwDJFIm+QZScua1xr///z/nCQAA7nR69gYAAPi9CUoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAktdnbwAA4G8wxp/7Pd6fe2cAAHwJQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAMnrszcAADzPGL5b+kzjL/nu7u+4SwAAPo2gBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCA5PXZGwCAPcbwHche4w/+vuh3/Rz8DvseY9w99vvfHQAA35qgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSvz94AwN9kjL/37/jxG36H8Z3fr++0tzHGE1f/+ufwVc/+y9Z5wDP8Pp9GAAB+S4ISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAACS12dvAPhzjPHn/I06vunf289+xl+9/hjji1b63Pv6rOf2afM++Hk8ep+PnO9Rc43pcZ/Vh+3pAfPsneN7/hcTAIDfhqAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIDk9dkbgD/FGN/777PxpL8fv+q5fNY6Y4wHz/jYfT7qvh8xzyM+Y3UfZXwaO93/OXnGnu9f8+vWu/ve7tjj/c/x+Pt+dK17f68Or3PPe3Sxt+/9f0AAAL49QQkAQCIoAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAMnrszfAn2+M5/zdMj7x76VH39Mj5htjxBnu38M9+7/3nu95X79if4evn/a/X5+5l2Nzf868e6898t7vnvPA782j97l/j49/PtOj1975HB/9bKY96+59LEf+G/rAdc971927vdPe+R67rm8oAQBIBCUAAImgBAAgEZQAACSCEgCARFACAJAISgAAEkEJAEAiKAEASAQlAACJoAQAIBGUAAAkghIAgERQAgCQCEoAABJBCQBAIigBAEgEJQAAiaAEACARlAAAJIISAIBEUAIAkAhKAAASQQkAQCIoAQBIBCUAAImgBAAgEZQAACSvz94Ay8b4nN4f8e+Ie/d1z7gxxoGr989/ZC97r93zXPfM9bBrpu1ntzVPPf/mc9fYeu7b868/p89cv849lbm37ntl7c33fev3dm341ti18xvbOm/OvXLuFPa19atY5t6af3Pu9dObz2xt/plT5w/nl8eet+ZemP/j+bW9hc/onvFbz/Uz3/Np+tzP1ML8vqEEACA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" id="image9fd4cdb6e1" transform="scale(1 -1) translate(0 -145.2)" x="323.28" y="-20.88" width="158.4" height="145.2"/>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_17">
+      <path d="M 376.046274 166.281688 
+L 376.046274 21.129688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m42e6d4957f" x="376.046274" y="166.281688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 10 -->
+      <g transform="translate(371.546274 179.715281) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_19">
+      <path d="M 428.825761 166.281688 
+L 428.825761 21.129688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m42e6d4957f" x="428.825761" y="166.281688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 20 -->
+      <g transform="translate(424.325761 179.715281) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_21">
+      <path d="M 481.605248 166.281688 
+L 481.605248 21.129688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m42e6d4957f" x="481.605248" y="166.281688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 30 -->
+      <g transform="translate(477.105248 179.715281) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-33"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_15">
+     <!-- 时间 $t$ / min -->
+     <g transform="translate(370.69 193.467469) scale(0.11 -0.11)">
+      <use xlink:href="#SimSun-65f6" transform="translate(0 0.359375)"/>
+      <use xlink:href="#SimSun-95f4" transform="translate(100 0.359375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(200 0.359375)"/>
+      <use xlink:href="#STIXGeneral-Italic-74" transform="translate(250 0.359375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(277.799988 0.359375)"/>
+      <use xlink:href="#SimSun-2f" transform="translate(327.799988 0.359375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(377.799988 0.359375)"/>
+      <use xlink:href="#SimSun-6d" transform="translate(427.799988 0.359375)"/>
+      <use xlink:href="#SimSun-69" transform="translate(477.799988 0.359375)"/>
+      <use xlink:href="#SimSun-6e" transform="translate(527.799988 0.359375)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_23">
+      <path d="M 323.310769 162.825688 
+L 481.649231 162.825688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="323.310769" y="162.825688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 0.0 -->
+      <g transform="translate(302.810769 166.042484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_25">
+      <path d="M 323.310769 128.265688 
+L 481.649231 128.265688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="323.310769" y="128.265688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 0.5 -->
+      <g transform="translate(302.810769 131.482484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_27">
+      <path d="M 323.310769 93.705688 
+L 481.649231 93.705688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="323.310769" y="93.705688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 1.0 -->
+      <g transform="translate(302.810769 96.922484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_29">
+      <path d="M 323.310769 59.145688 
+L 481.649231 59.145688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="323.310769" y="59.145688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 1.5 -->
+      <g transform="translate(302.810769 62.362484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_31">
+      <path d="M 323.310769 24.585688 
+L 481.649231 24.585688 
+" clip-path="url(#p6fd4813267)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #bbbbbb; stroke-opacity: 0.45; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m1ec56c52ce" x="323.310769" y="24.585688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 2.0 -->
+      <g transform="translate(302.810769 27.802484) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 323.310769 166.281688 
+L 323.310769 21.129688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 481.649231 166.281688 
+L 481.649231 21.129688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 323.310769 166.281688 
+L 481.649231 166.281688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 323.310769 21.129688 
+L 481.649231 21.129688 
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_21">
+    <!-- (b) 含水率场 -->
+    <g transform="translate(372.48 15.129688) scale(0.1 -0.1)">
+     <defs>
+      <path id="SimSun-62" d="M 875 2325 
+Q 1000 2600 1275 2762 
+Q 1550 2925 1800 2925 
+Q 2325 2925 2587 2562 
+Q 2850 2200 2850 1500 
+Q 2850 800 2512 437 
+Q 2175 75 1675 75 
+Q 1425 75 1212 162 
+Q 1000 250 850 400 
+L 625 100 
+L 525 100 
+L 525 4025 
+Q 525 4125 475 4175 
+Q 425 4225 300 4225 
+L 150 4225 
+L 150 4375 
+L 375 4375 
+Q 500 4375 625 4425 
+Q 750 4475 875 4575 
+L 875 2325 
+z
+M 875 925 
+Q 875 650 1062 450 
+Q 1250 250 1625 250 
+Q 2075 250 2262 562 
+Q 2450 875 2450 1500 
+Q 2450 2100 2287 2412 
+Q 2125 2725 1775 2725 
+Q 1475 2725 1250 2550 
+Q 1025 2375 875 1925 
+L 875 925 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-542b" d="M 2800 3850 
+L 2875 3925 
+Q 3600 3500 3600 3275 
+Q 3600 3050 3512 2975 
+Q 3425 2900 3375 2900 
+Q 3275 2900 3225 3125 
+Q 3125 3450 2800 3850 
+z
+M 1500 2700 
+L 4025 2700 
+L 4275 2950 
+L 4675 2575 
+L 4425 2425 
+Q 4175 2150 3775 1500 
+L 3450 1600 
+L 4050 2550 
+L 2325 2550 
+Q 2000 2550 1725 2475 
+L 1500 2700 
+z
+M 1950 1250 
+L 1950 50 
+L 4375 50 
+L 4375 1250 
+L 1950 1250 
+z
+M 4725 1150 
+L 4725 25 
+Q 4725 -200 4750 -475 
+L 4375 -650 
+L 4375 -100 
+L 1950 -100 
+L 1950 -500 
+L 1575 -650 
+Q 1600 -75 1600 487 
+Q 1600 1050 1575 1600 
+L 1950 1400 
+L 4325 1400 
+L 4575 1650 
+L 4925 1300 
+L 4725 1150 
+z
+M 3550 4900 
+L 3300 4775 
+Q 3975 4025 4725 3725 
+Q 5475 3425 6100 3375 
+L 6100 3300 
+Q 5750 3250 5600 2950 
+Q 4675 3275 4125 3725 
+Q 3575 4175 3225 4675 
+Q 2325 3700 1575 3250 
+Q 825 2800 275 2600 
+L 250 2700 
+Q 1225 3200 1962 3862 
+Q 2700 4525 3100 5250 
+L 3550 4900 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-6c34" d="M 2950 5200 
+L 3600 4925 
+L 3350 4725 
+Q 3325 4150 3450 3750 
+Q 3575 3350 3850 2775 
+Q 4825 3575 5175 4150 
+L 5600 3700 
+Q 5350 3675 4975 3400 
+Q 4575 3125 3900 2650 
+Q 4875 775 6100 375 
+L 6100 275 
+Q 5625 250 5525 -25 
+Q 4000 1100 3350 3625 
+L 3350 125 
+Q 3375 -500 2750 -650 
+Q 2775 -300 1975 -100 
+L 1975 0 
+Q 2550 -50 2762 -50 
+Q 2975 -50 2975 250 
+L 2975 4275 
+Q 2975 4750 2950 5200 
+z
+M 375 -150 
+L 325 -75 
+Q 1575 1175 2050 3125 
+L 1275 3125 
+Q 950 3125 675 3050 
+L 450 3275 
+L 2025 3275 
+L 2250 3575 
+L 2700 3175 
+L 2450 3050 
+Q 1825 825 375 -150 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-7387" d="M 875 3725 
+L 925 3800 
+Q 1375 3650 1550 3525 
+Q 1725 3400 1725 3250 
+Q 1725 3175 1662 3025 
+Q 1600 2875 1550 2875 
+Q 1500 2875 1425 3050 
+Q 1275 3325 875 3725 
+z
+M 550 1850 
+Q 875 1925 2000 2575 
+L 2050 2500 
+Q 1675 2225 1337 1937 
+Q 1000 1650 875 1425 
+L 550 1850 
+z
+M 5200 3450 
+Q 4800 3150 4275 2800 
+L 4225 2875 
+Q 4775 3400 5050 3925 
+L 5450 3525 
+L 5200 3450 
+z
+M 4325 2500 
+L 4350 2575 
+Q 5225 2350 5375 2212 
+Q 5525 2075 5525 1900 
+Q 5525 1775 5487 1662 
+Q 5450 1550 5400 1550 
+Q 5325 1550 5200 1800 
+Q 4975 2150 4325 2500 
+z
+M 3150 3900 
+Q 2500 3300 2300 3150 
+Q 2800 3150 3400 3175 
+Q 3700 3500 3850 3825 
+L 4250 3450 
+Q 4050 3400 3450 2825 
+Q 2850 2250 2475 1950 
+Q 3150 1975 3850 2000 
+Q 3750 2175 3550 2450 
+L 3600 2500 
+Q 4050 2250 4200 2100 
+Q 4350 1950 4350 1850 
+Q 4350 1775 4250 1625 
+Q 4150 1475 4100 1475 
+Q 4075 1475 4050 1550 
+Q 4000 1700 3900 1900 
+Q 3650 1875 3075 1800 
+L 3500 1550 
+L 3325 1425 
+L 3325 975 
+L 5325 975 
+L 5650 1300 
+L 6100 825 
+L 3325 825 
+Q 3325 -275 3350 -525 
+L 2975 -650 
+Q 3000 0 3000 825 
+L 1125 825 
+Q 800 825 525 750 
+L 300 975 
+L 3000 975 
+L 3000 1775 
+Q 2450 1700 2200 1525 
+L 1950 1950 
+Q 2275 1950 2675 2350 
+Q 3075 2750 3325 3050 
+Q 2400 2950 2150 2775 
+L 1950 3175 
+Q 2150 3150 2475 3575 
+Q 2800 4000 2900 4225 
+L 1450 4225 
+Q 1125 4225 850 4150 
+L 625 4375 
+L 3100 4375 
+Q 3050 4800 2675 5200 
+L 2725 5250 
+Q 3225 5050 3337 4912 
+Q 3450 4775 3450 4700 
+Q 3450 4550 3250 4375 
+L 5025 4375 
+L 5350 4675 
+L 5775 4225 
+L 3050 4225 
+L 3375 3950 
+L 3150 3900 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SimSun-28"/>
+     <use xlink:href="#SimSun-62" x="50"/>
+     <use xlink:href="#SimSun-29" x="100"/>
+     <use xlink:href="#SimSun-20" x="150"/>
+     <use xlink:href="#SimSun-542b" x="200"/>
+     <use xlink:href="#SimSun-6c34" x="300"/>
+     <use xlink:href="#SimSun-7387" x="400"/>
+     <use xlink:href="#SimSun-573a" x="500"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 229.833846 166.281688 
+L 237.091446 166.281688 
+L 237.091446 21.129688 
+L 229.833846 21.129688 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAJdCAYAAAAlY8dJAAACw0lEQVR4nO2ci20AIQzFaMX+k3Wmo1s4UmwvEAWeA0c/P+/9vTPA70TRc8655400PNfx4FKfb6Rw4cLw7XHhwrjn6Dp+6cSQThjKcMk89oXLt8eFC0N5OqUTgzFcvo7TCaJwYbTH+wsrL3synfIYo1mNYdSpWQ3RHu8v7Jtc6YSRThhd9vYXNobL13E6QSjDpevYdtlLJ4x0wkgnjHTaX9jnsS9c99kGSDphCHXSncfphJFOGEqdZEvdIyqGMly6jm3ncTphpBNGOmGkE8Y9XzoxGHWyddyxiOEL1z2frON0wjDqZOu4WyaGL1y+jltqDN953C0TI50wjDr5wiUcIOnEYNRJ2HE6MShntazjPMbwhcs3QNIJw6iTreOWGsM3q+/Qr3OlE0fhwvDtceHC8J1OhQvDN7l8e1y4MHzh6nTCMIZLN0CGGnbqZAuXboAULow79M8x2mNBYd/k8oXLt8eFC6PTCUOp00zhwrW/cOHC6HTaX9j3Xu0Ll2+PW2qMdMJQ6jRTuHDtL1y4MNrj/YWV4fJ1PFM4nTAGf9fHFi7fHje5MAoXhm+pjT+Fse1xsxrDFy7fHhcuDGXHM4XTCaNw7S9cuDAm37lke9yfD2L4wuV7Nu7VB8Ook22PCxdGsxpD+FcDunD5BkjHIobxw9w2MpvVGL5Z7RuZPRtjGAdIOkEYZ7VNpz7MMXzh6ksCQxgu4WWvqw+EUCfhZS+dIO47PyOFC9f+wr6lvkOjenSPZQMknTDuUMPpJCisnNUzhdNpf2HlrJ4pLAzXZ/PYFy5fx736YPjC5bvedsvEEOqk67gvCQzf9TaPMZQdpxODcFb7dOp0ojCGa6hwHe8v7Ftq33lcuDDqGCOdMOoYw9dxS41RxxjphNGXxP7CwnDVMUU6YdQxhq/jlhqjjjHSCaOO9xf2fbT5wuXruKXGqGMMn07/5RCzbPFZkhkAAAAASUVORK5CYII=" id="image91a78d25e5" transform="scale(1 -1) translate(0 -145.2)" x="229.92" y="-20.88" width="7.2" height="145.2"/>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_11">
+     <g id="line2d_33">
+      <defs>
+       <path id="m93730a37cd" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.9"/>
+      </defs>
+      <g>
+       <use xlink:href="#m93730a37cd" x="237.091446" y="166.281688" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 28 -->
+      <g transform="translate(244.091446 169.498484) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-38" d="M 625 1125 
+Q 625 725 887 475 
+Q 1150 225 1550 225 
+Q 2025 225 2237 475 
+Q 2450 725 2450 1100 
+Q 2450 1425 2150 1725 
+Q 1850 2025 1250 2275 
+Q 950 2075 787 1775 
+Q 625 1475 625 1125 
+z
+M 2825 1175 
+Q 2825 700 2475 375 
+Q 2125 50 1550 50 
+Q 1025 50 650 375 
+Q 275 700 275 1125 
+Q 275 1550 487 1850 
+Q 700 2150 1100 2375 
+Q 750 2550 562 2812 
+Q 375 3075 375 3400 
+Q 375 3825 700 4125 
+Q 1025 4425 1600 4425 
+Q 2125 4425 2450 4125 
+Q 2775 3825 2775 3400 
+Q 2775 3100 2587 2837 
+Q 2400 2575 2000 2375 
+Q 2425 2125 2625 1825 
+Q 2825 1525 2825 1175 
+z
+M 2425 3375 
+Q 2425 3725 2225 3987 
+Q 2025 4250 1600 4250 
+Q 1125 4250 925 4000 
+Q 725 3750 725 3475 
+Q 725 3200 1012 2937 
+Q 1300 2675 1825 2475 
+Q 2125 2625 2275 2850 
+Q 2425 3075 2425 3375 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-38" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m93730a37cd" x="237.091446" y="133.241158" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 30 -->
+      <g transform="translate(244.091446 136.457955) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-33"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m93730a37cd" x="237.091446" y="100.200629" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 32 -->
+      <g transform="translate(244.091446 103.417426) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-33"/>
+       <use xlink:href="#SimSun-32" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m93730a37cd" x="237.091446" y="67.1601" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- 34 -->
+      <g transform="translate(244.091446 70.376897) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-34" d="M 2300 575 
+Q 2300 400 2400 325 
+Q 2500 250 2675 250 
+L 2900 250 
+L 2900 100 
+L 1250 100 
+L 1250 250 
+L 1525 250 
+Q 1725 250 1812 325 
+Q 1900 400 1900 575 
+L 1900 1400 
+L 225 1400 
+L 225 1525 
+L 2050 4425 
+L 2300 4425 
+L 2300 1550 
+L 2975 1550 
+L 2975 1400 
+L 2300 1400 
+L 2300 575 
+z
+M 1875 3800 
+L 450 1550 
+L 1900 1550 
+L 1900 3800 
+L 1875 3800 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-33"/>
+       <use xlink:href="#SimSun-34" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m93730a37cd" x="237.091446" y="34.119571" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- 36 -->
+      <g transform="translate(244.091446 37.336368) scale(0.09 -0.09)">
+       <defs>
+        <path id="SimSun-36" d="M 775 1800 
+Q 775 1050 1037 637 
+Q 1300 225 1675 225 
+Q 2050 225 2250 500 
+Q 2450 775 2450 1525 
+Q 2450 2025 2237 2300 
+Q 2025 2575 1725 2575 
+Q 1450 2575 1212 2412 
+Q 975 2250 775 1800 
+z
+M 1750 2825 
+Q 2350 2825 2612 2425 
+Q 2875 2025 2875 1525 
+Q 2875 775 2512 412 
+Q 2150 50 1675 50 
+Q 1000 50 650 562 
+Q 300 1075 300 2050 
+Q 300 3200 725 3812 
+Q 1150 4425 1875 4425 
+Q 2225 4425 2437 4225 
+Q 2650 4025 2650 3875 
+Q 2650 3725 2587 3650 
+Q 2525 3575 2375 3575 
+Q 2250 3575 2187 3637 
+Q 2125 3700 2125 3825 
+Q 2125 3875 2150 3925 
+Q 2150 3975 2150 4025 
+Q 2150 4125 2075 4187 
+Q 2000 4250 1800 4250 
+Q 1375 4250 1075 3862 
+Q 775 3475 775 2175 
+Q 925 2500 1187 2662 
+Q 1450 2825 1750 2825 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-33"/>
+       <use xlink:href="#SimSun-36" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_27">
+     <!-- 温度 $T$ / $^\circ$C -->
+     <g transform="translate(264.30129 118.770688) rotate(-90) scale(0.09 -0.09)">
+      <defs>
+       <path id="STIXGeneral-Italic-54" d="M 4051 4179 
+L 3770 3130 
+L 3661 3142 
+Q 3680 3302 3680 3437 
+Q 3680 3955 3034 3955 
+L 2662 3955 
+L 1786 819 
+Q 1696 506 1696 397 
+Q 1696 250 1766 195 
+Q 1837 141 2035 122 
+L 2259 102 
+L 2259 0 
+L 416 0 
+L 416 102 
+Q 749 134 889 230 
+Q 1030 326 1101 582 
+L 2016 3955 
+Q 1254 3955 988 3817 
+Q 723 3680 493 3162 
+L 378 3187 
+L 646 4179 
+L 4051 4179 
+z
+" transform="scale(0.015625)"/>
+       <path id="STIXGeneral-Regular-2218" d="M 1734 2224 
+Q 1984 1971 1984 1612 
+Q 1984 1254 1731 1001 
+Q 1478 749 1120 749 
+Q 755 749 505 1001 
+Q 256 1254 256 1626 
+Q 256 1984 509 2230 
+Q 762 2477 1133 2477 
+Q 1485 2477 1734 2224 
+z
+M 1434 1299 
+Q 1562 1427 1562 1612 
+Q 1562 1798 1434 1926 
+Q 1306 2054 1133 2054 
+Q 934 2054 806 1929 
+Q 678 1805 678 1626 
+Q 678 1427 803 1299 
+Q 928 1171 1120 1171 
+Q 1306 1171 1434 1299 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-43" d="M 1725 50 
+Q 1025 50 612 575 
+Q 200 1100 200 2225 
+Q 200 3175 637 3800 
+Q 1075 4425 1825 4425 
+Q 2000 4425 2175 4375 
+Q 2350 4300 2475 4300 
+Q 2575 4300 2637 4325 
+Q 2700 4350 2750 4425 
+L 2975 3325 
+L 2825 3275 
+Q 2675 3750 2425 4000 
+Q 2175 4250 1775 4250 
+Q 1250 4250 962 3675 
+Q 675 3100 675 2250 
+Q 675 1325 925 800 
+Q 1175 275 1750 275 
+Q 2150 275 2437 562 
+Q 2725 850 2825 1325 
+L 2975 1250 
+Q 2850 725 2512 387 
+Q 2175 50 1725 50 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimSun-6e29" transform="translate(0 0.578125)"/>
+      <use xlink:href="#SimSun-5ea6" transform="translate(100 0.578125)"/>
+      <use xlink:href="#SimSun-20" transform="translate(200 0.578125)"/>
+      <use xlink:href="#STIXGeneral-Italic-54" transform="translate(250 0.578125)"/>
+      <use xlink:href="#SimSun-20" transform="translate(305.599991 0.578125)"/>
+      <use xlink:href="#SimSun-2f" transform="translate(355.599991 0.578125)"/>
+      <use xlink:href="#SimSun-20" transform="translate(405.599991 0.578125)"/>
+      <use xlink:href="#STIXGeneral-Regular-2218" transform="translate(467.25127 35.853125) scale(0.7)"/>
+      <use xlink:href="#SimSun-43" transform="translate(506.268631 0.578125)"/>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_13">
+    <path d="M 229.833846 166.281688 
+L 233.462646 166.281688 
+L 237.091446 166.281688 
+L 237.091446 21.129688 
+L 233.462646 21.129688 
+L 229.833846 21.129688 
+L 229.833846 166.281688 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_14">
+    <path d="M 485.464615 166.281688 
+L 492.722215 166.281688 
+L 492.722215 21.129688 
+L 485.464615 21.129688 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAJdCAYAAAAlY8dJAAAC8klEQVR4nO2dgW0DMRDDPoX336/DNN8tKMAkFzicLclnJ0g+7/v7PgN+FkWf53nO+0wa3nW8W+rn+U4KD8X1ysR1nuwE4UuuAgQjO2GU1fcXPq8uuXTiKqsxjOIqQCCEdtIll3LYkwVI4sLwZbUvMksuDF+AtNQYyqyWBUjiwihAMIR20iVXdsJQ2mlTeNfxJj6c4hoVzk4Yvj1eiuszKZy4MM7XFiCJC6PTCcNoJ524uklQCMWlSy7feJu4MHxztW+PW2qMzmMMoZ3KagqhuEouim4S9xf2vYEUIBhCO/nE5QsQ3XjbUmOcb6MPxPkTimtTuNPp/sK+5CpAMJR22hSuY4zzZ4vMxIXh67gpE8OXXNkJw7fUwo51d6cu5hhGO40KK+20KVyA3F9YKC7dIODb45Yaw5fVjT4YSjttChcg9xcWPhv77NRX2SmE4tIFSOLC8A0C2QlDaadN4QLk/sK+5MpOGEY7+cQ1Kpy4MEoujOyEIbST7knRt8clF4ZPXL7zODth+OyUjzF84vJ13G83YdQxhtJOsj8B9InrjP7L02mnTeFGn/sLC8VVxxRGO42iK3Fh+DpuEMDwicvXcUuN0TUVo1cfjDq+v3CjD0an0/2FjeISdiybQBIXhq/j4ehjOxbPYxPXeWwP5UtxyZb6fGzi8gVIyYVh7NgWmUtxbQoPT6fEBWFMLl/H2QlCmNU6cfkCpGsqhu+amp0wymqMJpD7C/uuqT47ldUYvuTKThhKO9k6/tjuTokLw9hxdoLodMJQimtTODth+B7KsxOG0E66p4jEhaHseFPYaCfbIOCzUz7GENpJ96FmdsIQ2km3xw0CGNkJIzthZKf7C/t87Jure0TFMGa1r+PsBCEU1zv6ob1hxyM/Ce2k+9U5n52WWS1bal9yZScM31JnJwylnRp9GAqQ+wsbxWXreHiTsPnYJy5fxy01xnlHn2q2x/cX9i21sWPbBJK4MHwdd5PA6J0LQ2gn3VL7BgHfHs8K/wMhz+ZDw1yRTwAAAABJRU5ErkJggg==" id="imagec9b84ec3b3" transform="scale(1 -1) translate(0 -145.2)" x="485.52" y="-20.88" width="7.2" height="145.2"/>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_16">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m93730a37cd" x="492.722215" y="153.758715" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- 1.6 -->
+      <g transform="translate(499.722215 156.975512) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-36" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#m93730a37cd" x="492.722215" y="125.836815" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- 1.8 -->
+      <g transform="translate(499.722215 129.053611) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-38" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m93730a37cd" x="492.722215" y="97.914914" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- 2.0 -->
+      <g transform="translate(499.722215 101.131711) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m93730a37cd" x="492.722215" y="69.993013" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- 2.2 -->
+      <g transform="translate(499.722215 73.20981) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-32" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m93730a37cd" x="492.722215" y="42.071113" style="stroke: #000000; stroke-width: 0.9"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- 2.4 -->
+      <g transform="translate(499.722215 45.28791) scale(0.09 -0.09)">
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-34" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_33">
+     <!-- 含水率 $C$ / (kg$\cdot$kg$^{-1}$) -->
+     <g transform="translate(524.692215 138.030687) rotate(-90) scale(0.09 -0.09)">
+      <defs>
+       <path id="STIXGeneral-Italic-43" d="M 4410 4250 
+L 4173 2970 
+L 4058 2989 
+Q 3942 4032 3104 4032 
+Q 2406 4032 1830 3411 
+Q 1491 3053 1315 2541 
+Q 1139 2029 1139 1485 
+Q 1139 173 2259 173 
+Q 2656 173 2985 339 
+Q 3315 506 3725 934 
+L 3840 838 
+Q 3411 333 2998 109 
+Q 2586 -115 2093 -115 
+Q 1344 -115 883 329 
+Q 422 774 422 1555 
+Q 422 2214 748 2812 
+Q 1075 3411 1619 3795 
+Q 2272 4262 3021 4262 
+Q 3462 4262 3770 4154 
+Q 3898 4109 4032 4109 
+Q 4205 4109 4275 4250 
+L 4410 4250 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-6b" d="M 1675 1900 
+L 2625 425 
+Q 2700 325 2762 287 
+Q 2825 250 2900 250 
+L 3000 250 
+L 3000 100 
+L 1975 100 
+L 1975 250 
+L 2050 250 
+Q 2175 250 2225 287 
+Q 2275 325 2200 425 
+L 1425 1650 
+L 925 1125 
+L 925 450 
+Q 925 350 987 300 
+Q 1050 250 1150 250 
+L 1275 250 
+L 1275 100 
+L 225 100 
+L 225 250 
+L 350 250 
+Q 475 250 525 300 
+Q 575 350 575 450 
+L 575 4025 
+Q 575 4125 525 4175 
+Q 475 4225 350 4225 
+L 200 4225 
+L 200 4375 
+L 425 4375 
+Q 575 4375 687 4425 
+Q 800 4475 875 4575 
+L 925 4575 
+L 925 1400 
+L 1975 2525 
+Q 2025 2625 2012 2687 
+Q 2000 2750 1900 2750 
+L 1750 2750 
+L 1750 2900 
+L 2800 2900 
+L 2800 2750 
+L 2675 2750 
+Q 2600 2750 2487 2712 
+Q 2375 2675 2275 2575 
+L 1675 1900 
+z
+M 2450 2750 
+L 2450 2750 
+z
+M 2175 2750 
+L 2175 2750 
+z
+M 2300 250 
+L 2300 250 
+z
+M 2750 250 
+L 2750 250 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimSun-67" d="M 875 1975 
+Q 875 1675 1050 1462 
+Q 1225 1250 1525 1250 
+Q 1850 1250 2012 1437 
+Q 2175 1625 2175 1975 
+Q 2175 2400 1987 2587 
+Q 1800 2775 1525 2775 
+Q 1250 2775 1062 2587 
+Q 875 2400 875 1975 
+z
+M 2100 625 
+Q 2475 575 2650 412 
+Q 2825 250 2825 -25 
+Q 2825 -400 2512 -625 
+Q 2200 -850 1525 -850 
+Q 1000 -850 675 -637 
+Q 350 -425 350 -150 
+Q 350 25 475 200 
+Q 600 375 875 475 
+Q 725 550 637 637 
+Q 550 725 550 850 
+Q 550 1000 650 1112 
+Q 750 1225 900 1300 
+Q 750 1425 637 1600 
+Q 525 1775 525 1975 
+Q 525 2350 787 2637 
+Q 1050 2925 1525 2925 
+Q 1725 2925 1912 2875 
+Q 2100 2825 2225 2700 
+Q 2400 2825 2537 2887 
+Q 2675 2950 2775 2950 
+Q 2900 2950 2950 2862 
+Q 3000 2775 3000 2700 
+Q 3000 2600 2962 2537 
+Q 2925 2475 2825 2475 
+Q 2750 2475 2700 2512 
+Q 2650 2550 2625 2625 
+Q 2600 2700 2512 2687 
+Q 2425 2675 2325 2600 
+Q 2425 2500 2475 2325 
+Q 2525 2150 2525 1975 
+Q 2525 1675 2287 1387 
+Q 2050 1100 1525 1100 
+Q 1375 1100 1250 1137 
+Q 1125 1175 1050 1225 
+Q 950 1175 900 1100 
+Q 850 1025 850 975 
+Q 850 875 900 825 
+Q 950 775 1050 775 
+Q 1375 725 1637 687 
+Q 1900 650 2100 625 
+z
+M 1075 425 
+Q 850 325 762 187 
+Q 675 50 675 -150 
+Q 675 -350 900 -525 
+Q 1125 -700 1575 -700 
+Q 2000 -700 2250 -562 
+Q 2500 -425 2500 -150 
+Q 2500 25 2437 125 
+Q 2375 225 2250 250 
+Q 2000 300 1700 350 
+Q 1400 375 1075 425 
+z
+" transform="scale(0.015625)"/>
+       <path id="STIXGeneral-Regular-22c5" d="M 1187 1888 
+Q 1299 1773 1299 1619 
+Q 1299 1466 1187 1350 
+Q 1075 1235 921 1235 
+Q 768 1235 649 1353 
+Q 531 1472 531 1619 
+Q 531 1766 649 1884 
+Q 768 2003 921 2003 
+Q 1075 2003 1187 1888 
+z
+" transform="scale(0.015625)"/>
+       <path id="STIXGeneral-Regular-2212" d="M 3974 1408 
+L 410 1408 
+L 410 1830 
+L 3974 1830 
+L 3974 1408 
+z
+" transform="scale(0.015625)"/>
+       <path id="STIXGeneral-Regular-31" d="M 2522 0 
+L 755 0 
+L 755 96 
+Q 1107 115 1235 227 
+Q 1363 339 1363 608 
+L 1363 3482 
+Q 1363 3795 1171 3795 
+Q 1082 3795 883 3718 
+L 710 3654 
+L 710 3744 
+L 1856 4326 
+L 1914 4307 
+L 1914 486 
+Q 1914 275 2042 185 
+Q 2170 96 2522 96 
+L 2522 0 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimSun-542b" transform="translate(0 0.409375)"/>
+      <use xlink:href="#SimSun-6c34" transform="translate(100 0.409375)"/>
+      <use xlink:href="#SimSun-7387" transform="translate(200 0.409375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(300 0.409375)"/>
+      <use xlink:href="#STIXGeneral-Italic-43" transform="translate(350 0.409375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(416.699997 0.409375)"/>
+      <use xlink:href="#SimSun-2f" transform="translate(466.699997 0.409375)"/>
+      <use xlink:href="#SimSun-20" transform="translate(516.699997 0.409375)"/>
+      <use xlink:href="#SimSun-28" transform="translate(566.699997 0.409375)"/>
+      <use xlink:href="#SimSun-6b" transform="translate(616.699997 0.409375)"/>
+      <use xlink:href="#SimSun-67" transform="translate(666.699997 0.409375)"/>
+      <use xlink:href="#STIXGeneral-Regular-22c5" transform="translate(716.699997 0.409375)"/>
+      <use xlink:href="#SimSun-6b" transform="translate(745.299988 0.409375)"/>
+      <use xlink:href="#SimSun-67" transform="translate(795.299988 0.409375)"/>
+      <use xlink:href="#STIXGeneral-Regular-2212" transform="translate(846.843269 35.684375) scale(0.7)"/>
+      <use xlink:href="#STIXGeneral-Regular-31" transform="translate(894.793258 35.684375) scale(0.7)"/>
+      <use xlink:href="#SimSun-29" transform="translate(934.202623 0.409375)"/>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_2"/>
+   <g id="patch_15">
+    <path d="M 485.464615 166.281688 
+L 489.093415 166.281688 
+L 492.722215 166.281688 
+L 492.722215 21.129688 
+L 489.093415 21.129688 
+L 485.464615 21.129688 
+L 485.464615 166.281688 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_34">
+   <!-- 图 2　问题一预热段温度场与含水率场的时空演化：$0\sim1800\,$s，附录 2 常物性，附件 1 环境：→ $1800\,$s 时温度中心 33.58$\,^\circ$C、表面 36.79$\,^\circ$C；含水率仅表面下降、中心几乎不变 -->
+   <g style="fill: #444444" transform="translate(7.2 222.037184) scale(0.085 -0.085)">
+    <defs>
+     <path id="SimSun-56fe" d="M 5675 4700 
+L 5675 550 
+Q 5675 50 5700 -350 
+L 5325 -550 
+L 5325 -50 
+L 1250 -50 
+L 1250 -450 
+L 875 -600 
+Q 900 -100 900 425 
+L 900 4200 
+Q 900 4625 875 5150 
+L 1250 4925 
+L 5275 4925 
+L 5450 5175 
+L 5850 4850 
+L 5675 4700 
+z
+M 1250 4775 
+L 1250 1700 
+Q 2425 2200 3075 2825 
+Q 2750 3275 2500 3850 
+Q 2100 3225 1650 2800 
+L 1575 2850 
+Q 1975 3375 2250 3937 
+Q 2525 4500 2575 4775 
+L 1250 4775 
+z
+M 1250 100 
+L 5325 100 
+L 5325 4775 
+L 2625 4775 
+L 3050 4550 
+L 2900 4475 
+Q 2750 4250 2675 4125 
+L 4000 4125 
+L 4175 4350 
+L 4550 4000 
+L 4350 3875 
+Q 3925 3275 3475 2775 
+Q 4250 2200 5250 2100 
+L 5250 2000 
+Q 4875 1975 4775 1700 
+Q 3900 2025 3250 2600 
+Q 2375 1900 1250 1575 
+L 1250 100 
+z
+M 2600 3975 
+Q 2950 3350 3275 3000 
+Q 3625 3400 3975 3975 
+L 2600 3975 
+z
+M 2750 2050 
+Q 3350 1925 3600 1825 
+Q 3850 1725 3825 1487 
+Q 3800 1250 3725 1250 
+Q 3650 1250 3550 1375 
+Q 3300 1625 2725 1975 
+L 2750 2050 
+z
+M 2275 1150 
+Q 3425 1025 3787 912 
+Q 4150 800 4175 525 
+Q 4200 250 4075 250 
+Q 4000 250 3825 400 
+Q 3450 700 2275 1050 
+L 2275 1150 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-3000" transform="scale(0.015625)"/>
+     <path id="SimSun-95ee" d="M 975 4100 
+L 1600 3750 
+L 1375 3600 
+L 1375 -375 
+L 975 -550 
+Q 1000 525 1000 2000 
+Q 1000 3475 975 4100 
+z
+M 3950 175 
+Q 4500 125 4775 100 
+Q 5050 75 5050 300 
+L 5050 4375 
+L 3675 4375 
+Q 3350 4375 3075 4300 
+L 2850 4525 
+L 5025 4525 
+L 5225 4825 
+L 5650 4475 
+L 5425 4275 
+L 5425 225 
+Q 5450 -425 4800 -550 
+Q 4800 -100 3950 75 
+L 3950 175 
+z
+M 1450 5175 
+Q 1950 4900 2112 4712 
+Q 2275 4525 2275 4400 
+Q 2275 4275 2175 4112 
+Q 2075 3950 2025 3950 
+Q 1925 3950 1875 4175 
+Q 1750 4550 1375 5125 
+L 1450 5175 
+z
+M 2525 2850 
+L 2525 1375 
+L 3900 1375 
+L 3900 2850 
+L 2525 2850 
+z
+M 4250 1650 
+Q 4250 1400 4275 1000 
+L 3900 850 
+L 3900 1225 
+L 2525 1225 
+L 2525 900 
+L 2150 750 
+Q 2175 1500 2175 2087 
+Q 2175 2675 2150 3250 
+L 2525 3000 
+L 3875 3000 
+L 4050 3275 
+L 4450 2975 
+L 4250 2800 
+L 4250 1650 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-9898" d="M 1350 4650 
+L 1350 3925 
+L 2525 3925 
+L 2525 4650 
+L 1350 4650 
+z
+M 1350 3775 
+L 1350 3075 
+L 2525 3075 
+L 2525 3775 
+L 1350 3775 
+z
+M 2850 4600 
+Q 2850 3450 2875 2875 
+L 2525 2700 
+L 2525 2925 
+L 1350 2925 
+L 1350 2775 
+L 1000 2650 
+Q 1025 3225 1025 3850 
+Q 1025 4475 1000 5000 
+L 1350 4800 
+L 2475 4800 
+L 2650 5050 
+L 3025 4750 
+L 2850 4600 
+z
+M 1100 950 
+Q 1375 600 1800 325 
+L 1800 2225 
+L 1275 2225 
+Q 950 2225 675 2150 
+L 450 2375 
+L 2650 2375 
+L 2950 2675 
+L 3350 2225 
+L 2125 2225 
+L 2125 1350 
+L 2600 1350 
+L 2875 1625 
+L 3250 1200 
+L 2125 1200 
+L 2125 225 
+Q 2625 0 3837 -12 
+Q 5050 -25 6075 100 
+L 6075 0 
+Q 5600 -175 5600 -400 
+Q 3475 -425 2837 -300 
+Q 2200 -175 1825 37 
+Q 1450 250 1050 800 
+Q 750 -100 325 -575 
+L 250 -525 
+Q 550 0 712 712 
+Q 875 1425 900 1975 
+L 1400 1725 
+Q 1200 1650 1100 950 
+z
+M 5600 2500 
+Q 5600 2300 5625 1725 
+L 5275 1550 
+L 5275 3750 
+L 3825 3750 
+L 3825 1675 
+L 3475 1475 
+Q 3500 2000 3500 2762 
+Q 3500 3525 3475 4100 
+L 3825 3900 
+L 4150 3900 
+Q 4250 4275 4275 4625 
+L 3975 4625 
+Q 3650 4625 3375 4550 
+L 3150 4775 
+L 5325 4775 
+L 5625 5075 
+L 6025 4625 
+L 4700 4625 
+Q 4600 4475 4275 3900 
+L 5225 3900 
+L 5400 4125 
+L 5775 3850 
+L 5600 3700 
+L 5600 2500 
+z
+M 4325 3375 
+L 4875 3100 
+L 4675 2925 
+Q 4675 1875 4550 1462 
+Q 4425 1050 4062 700 
+Q 3700 350 3000 100 
+L 2950 175 
+Q 3700 575 3987 1000 
+Q 4275 1425 4312 2037 
+Q 4350 2650 4325 3375 
+z
+M 4625 1425 
+L 4675 1500 
+Q 5650 1050 5737 900 
+Q 5825 750 5825 650 
+Q 5825 550 5775 412 
+Q 5725 275 5675 275 
+Q 5625 275 5500 525 
+Q 5300 875 4625 1425 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-4e00" d="M 350 2650 
+L 5000 2650 
+L 5500 3050 
+L 6050 2500 
+L 1250 2500 
+Q 850 2500 575 2425 
+L 350 2650 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-9884" d="M 475 4825 
+L 2225 4825 
+L 2425 5075 
+L 2825 4675 
+Q 2600 4625 2387 4412 
+Q 2175 4200 1800 3750 
+Q 2050 3575 2037 3400 
+Q 2025 3225 1937 3150 
+Q 1850 3075 1825 3075 
+Q 1725 3075 1650 3300 
+Q 1525 3600 1050 4100 
+L 1100 4150 
+Q 1475 3975 1700 3825 
+L 2225 4675 
+L 1300 4675 
+Q 975 4675 700 4600 
+L 475 4825 
+z
+M 725 100 
+Q 1175 50 1362 37 
+Q 1550 25 1550 275 
+L 1550 2875 
+L 1125 2875 
+Q 800 2875 525 2800 
+L 300 3025 
+L 2525 3025 
+L 2725 3275 
+L 3150 2875 
+Q 2800 2825 2275 2075 
+L 2200 2125 
+L 2550 2875 
+L 1875 2875 
+L 1875 150 
+Q 1875 -400 1350 -500 
+Q 1325 -175 725 0 
+L 725 100 
+z
+M 3250 775 
+Q 3275 1425 3275 2287 
+Q 3275 3150 3250 3900 
+L 3600 3700 
+L 4050 3700 
+Q 4175 4400 4200 4675 
+L 3650 4675 
+Q 3325 4675 3050 4600 
+L 2825 4825 
+L 5325 4825 
+L 5675 5150 
+L 6125 4675 
+L 4675 4675 
+Q 4500 4425 4175 3700 
+L 5300 3700 
+L 5475 3975 
+L 5875 3675 
+L 5675 3475 
+L 5675 1950 
+Q 5675 1525 5700 1075 
+L 5350 875 
+L 5350 3550 
+L 3600 3550 
+L 3600 1000 
+L 3250 775 
+z
+M 4850 2875 
+L 4625 2675 
+Q 4625 1475 4475 937 
+Q 4325 400 3900 50 
+Q 3475 -300 2425 -625 
+L 2400 -550 
+Q 3500 -50 3837 400 
+Q 4175 850 4237 1587 
+Q 4300 2325 4275 3175 
+L 4850 2875 
+z
+M 4650 950 
+Q 5725 375 5875 212 
+Q 6025 50 6025 -125 
+Q 6025 -225 5962 -387 
+Q 5900 -550 5850 -550 
+Q 5800 -550 5750 -450 
+Q 5625 -250 5437 0 
+Q 5250 250 4600 875 
+L 4650 950 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-70ed" d="M 2950 3900 
+L 3650 3925 
+Q 3650 4800 3625 5175 
+L 4200 4925 
+L 4000 4750 
+Q 3975 4075 3975 3950 
+L 4725 3975 
+L 4875 4225 
+L 5250 3925 
+L 5050 3775 
+Q 4975 3250 4975 2925 
+Q 4975 2500 5112 2100 
+Q 5250 1700 5550 1550 
+Q 5675 2175 5775 2525 
+L 5875 2525 
+Q 5825 2050 5837 1737 
+Q 5850 1425 5950 1200 
+Q 6025 1050 5875 1050 
+Q 5825 1050 5512 1150 
+Q 5200 1250 4962 1675 
+Q 4725 2100 4700 2437 
+Q 4675 2775 4675 2950 
+Q 4675 3350 4725 3825 
+L 3975 3800 
+Q 3950 3025 3825 2575 
+Q 4325 2200 4375 2037 
+Q 4425 1875 4425 1825 
+Q 4425 1750 4375 1625 
+Q 4325 1500 4275 1500 
+Q 4225 1500 4125 1700 
+Q 3975 2000 3700 2325 
+Q 3175 1425 2425 1025 
+L 2375 1100 
+Q 3125 1700 3450 2525 
+Q 3225 2750 2975 2950 
+L 3025 3025 
+Q 3375 2850 3525 2725 
+Q 3625 3225 3650 3775 
+L 3250 3750 
+L 3150 3675 
+L 2950 3900 
+z
+M 4775 875 
+L 4850 925 
+Q 5450 500 5562 325 
+Q 5675 150 5675 25 
+Q 5675 -150 5575 -287 
+Q 5475 -425 5425 -425 
+Q 5350 -425 5300 -150 
+Q 5225 250 4775 875 
+z
+M 1725 3925 
+Q 1725 4900 1700 5225 
+L 2250 5000 
+L 2050 4825 
+L 2050 3925 
+L 2350 3925 
+L 2625 4200 
+L 3000 3775 
+L 2050 3775 
+L 2050 2900 
+Q 2350 3000 2900 3175 
+L 2925 3075 
+Q 2350 2825 2050 2675 
+L 2050 1625 
+Q 2075 1150 1550 950 
+Q 1525 1275 950 1450 
+L 950 1550 
+Q 1400 1500 1562 1500 
+Q 1725 1500 1725 1675 
+L 1725 2550 
+Q 825 2200 675 2000 
+L 375 2450 
+Q 750 2500 1725 2800 
+L 1725 3775 
+L 1400 3775 
+Q 1075 3775 800 3700 
+L 575 3925 
+L 1725 3925 
+z
+M 1225 875 
+L 1325 875 
+Q 1325 50 1175 -200 
+Q 1025 -450 812 -400 
+Q 600 -350 600 -250 
+Q 600 -175 725 -75 
+Q 975 175 1225 875 
+z
+M 2275 825 
+Q 2750 375 2825 125 
+Q 2900 -125 2750 -262 
+Q 2600 -400 2550 -400 
+Q 2450 -400 2425 -100 
+Q 2400 325 2175 800 
+L 2275 825 
+z
+M 3525 875 
+Q 4050 450 4125 287 
+Q 4200 125 4200 50 
+Q 4200 -100 4087 -225 
+Q 3975 -350 3950 -350 
+Q 3850 -350 3800 -50 
+Q 3725 400 3450 825 
+L 3525 875 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-6bb5" d="M 1300 1100 
+L 3075 1500 
+L 3125 1400 
+L 1300 800 
+Q 1300 25 1325 -375 
+L 950 -600 
+Q 975 0 975 700 
+Q 575 575 525 475 
+L 275 925 
+Q 450 925 975 1050 
+L 975 3225 
+Q 975 4450 950 4825 
+L 1325 4600 
+Q 1625 4650 2025 4800 
+Q 2425 4950 2675 5150 
+L 3050 4725 
+Q 2750 4725 2275 4625 
+Q 1775 4525 1300 4450 
+L 1300 3525 
+L 2175 3525 
+L 2425 3775 
+L 2825 3375 
+L 1300 3375 
+L 1300 2375 
+L 2150 2375 
+L 2400 2625 
+L 2800 2225 
+L 1300 2225 
+L 1300 1100 
+z
+M 3375 4950 
+L 3750 4725 
+L 4625 4725 
+L 4825 4950 
+L 5175 4625 
+L 4975 4475 
+L 4975 3475 
+Q 4975 3225 5225 3225 
+L 5400 3225 
+Q 5550 3250 5650 3325 
+Q 5750 3375 5850 3250 
+Q 5950 3125 5950 3075 
+Q 5950 2950 5575 2950 
+L 5075 2950 
+Q 4650 2950 4650 3275 
+L 4650 4575 
+L 3725 4575 
+Q 3750 3825 3575 3350 
+Q 3400 2875 2725 2475 
+L 2650 2550 
+Q 3125 2925 3237 3287 
+Q 3350 3650 3375 4062 
+Q 3400 4475 3375 4950 
+z
+M 3475 2325 
+Q 3625 1900 3812 1562 
+Q 4000 1225 4200 975 
+Q 4400 1225 4575 1600 
+Q 4750 1975 4850 2325 
+L 3475 2325 
+z
+M 4000 750 
+Q 3825 1000 3662 1387 
+Q 3500 1775 3350 2325 
+L 3075 2275 
+L 2875 2475 
+L 4850 2475 
+L 5075 2725 
+L 5450 2375 
+L 5225 2225 
+Q 5075 1825 4862 1412 
+Q 4650 1000 4425 725 
+Q 4875 300 5325 87 
+Q 5775 -125 6150 -150 
+L 6150 -250 
+Q 5800 -275 5700 -525 
+Q 5400 -450 5012 -212 
+Q 4625 25 4200 500 
+Q 3700 100 3075 -162 
+Q 2450 -425 1775 -575 
+L 1750 -475 
+Q 2375 -300 2975 25 
+Q 3575 350 4000 750 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-4e0e" d="M 375 1250 
+L 3750 1250 
+L 4075 1575 
+L 4550 1100 
+L 1175 1100 
+Q 875 1100 600 1025 
+L 375 1250 
+z
+M 1700 2600 
+Q 1800 4125 1812 4450 
+Q 1825 4775 1825 5200 
+L 2400 4925 
+L 2200 4775 
+L 2150 3850 
+L 5075 3850 
+L 5400 4175 
+L 5875 3700 
+L 2150 3700 
+L 2075 2525 
+L 5025 2525 
+L 5225 2825 
+L 5675 2500 
+L 5450 2300 
+Q 5400 1375 5300 687 
+Q 5200 0 4937 -237 
+Q 4675 -475 4250 -575 
+Q 4275 -250 3425 0 
+L 3450 125 
+Q 4000 0 4400 0 
+Q 4800 0 4925 737 
+Q 5050 1475 5075 2375 
+L 2100 2375 
+L 1900 2125 
+L 1500 2425 
+L 1700 2600 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-7684" d="M 1125 3775 
+L 1125 2175 
+L 2425 2175 
+L 2425 3775 
+L 1125 3775 
+z
+M 1125 2025 
+L 1125 275 
+L 2425 275 
+L 2425 2025 
+L 1125 2025 
+z
+M 2750 3625 
+Q 2750 700 2775 -200 
+L 2425 -400 
+L 2425 125 
+L 1125 125 
+L 1125 -300 
+L 775 -500 
+Q 800 675 800 1837 
+Q 800 3000 775 4150 
+L 1150 3925 
+L 1400 3925 
+Q 1650 4775 1675 5225 
+L 2225 4925 
+Q 1975 4800 1550 3925 
+L 2375 3925 
+L 2625 4175 
+L 3000 3800 
+L 2750 3625 
+z
+M 3975 5200 
+L 4525 4875 
+Q 4325 4750 3900 3850 
+L 5250 3850 
+L 5525 4125 
+L 5900 3750 
+L 5675 3575 
+Q 5625 650 5537 262 
+Q 5450 -125 5287 -275 
+Q 5125 -425 4775 -550 
+Q 4650 -150 3950 50 
+L 3950 175 
+Q 4575 50 4850 50 
+Q 5125 50 5187 475 
+Q 5250 900 5300 3700 
+L 3850 3700 
+Q 3400 2975 2900 2475 
+L 2825 2525 
+Q 3350 3325 3600 3950 
+Q 3850 4575 3975 5200 
+z
+M 3525 2750 
+Q 4125 2300 4225 2087 
+Q 4325 1875 4325 1775 
+Q 4325 1600 4225 1475 
+Q 4125 1350 4075 1350 
+Q 3975 1350 3925 1700 
+Q 3825 2200 3475 2675 
+L 3525 2750 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-7a7a" d="M 1275 2100 
+L 4400 2100 
+L 4725 2400 
+L 5175 1950 
+L 3375 1950 
+L 3375 -150 
+L 5100 -150 
+L 5475 225 
+L 5975 -300 
+L 1275 -300 
+Q 950 -300 675 -375 
+L 450 -150 
+L 3000 -150 
+L 3000 1950 
+L 2100 1950 
+Q 1775 1950 1500 1875 
+L 1275 2100 
+z
+M 2650 5175 
+Q 3200 5025 3350 4875 
+Q 3500 4725 3500 4575 
+Q 3500 4450 3425 4325 
+Q 3350 4200 3300 4200 
+Q 3225 4200 3150 4400 
+Q 3025 4725 2600 5100 
+L 2650 5175 
+z
+M 5050 3300 
+L 5350 4000 
+L 1175 4000 
+Q 1250 3400 1062 3312 
+Q 875 3225 750 3225 
+Q 650 3225 575 3250 
+Q 500 3275 500 3325 
+Q 500 3350 575 3450 
+Q 700 3575 837 3787 
+Q 975 4000 1050 4425 
+L 1175 4425 
+L 1175 4150 
+L 5300 4150 
+L 5525 4450 
+L 6050 3925 
+Q 5650 3925 5125 3250 
+L 5050 3300 
+z
+M 2825 3425 
+L 2600 3350 
+Q 1425 2400 600 2100 
+L 550 2175 
+Q 1175 2550 1637 2962 
+Q 2100 3375 2400 3850 
+L 2825 3425 
+z
+M 3675 3675 
+Q 4500 3400 4975 3175 
+Q 5450 2950 5500 2787 
+Q 5550 2625 5550 2575 
+Q 5550 2500 5512 2400 
+Q 5475 2300 5425 2300 
+Q 5325 2300 5200 2450 
+Q 4975 2675 4587 2975 
+Q 4200 3275 3625 3575 
+L 3675 3675 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-6f14" d="M 5175 3675 
+L 5425 4225 
+L 2600 4225 
+Q 2650 4025 2650 3900 
+Q 2650 3750 2575 3612 
+Q 2500 3475 2287 3475 
+Q 2075 3475 2075 3550 
+Q 2075 3575 2125 3650 
+Q 2250 3825 2337 4050 
+Q 2425 4275 2475 4600 
+L 2575 4600 
+L 2600 4375 
+L 3950 4375 
+Q 3900 4800 3550 5150 
+L 3600 5225 
+Q 4150 5000 4225 4875 
+Q 4300 4750 4300 4675 
+Q 4300 4550 4150 4375 
+L 5375 4375 
+L 5600 4650 
+L 6025 4225 
+Q 5650 4200 5250 3625 
+L 5175 3675 
+z
+M 2725 2500 
+L 2725 1850 
+L 3750 1850 
+L 3750 2500 
+L 2725 2500 
+z
+M 4075 2500 
+L 4075 1850 
+L 5150 1850 
+L 5150 2500 
+L 4075 2500 
+z
+M 4075 1700 
+L 4075 975 
+L 5150 975 
+L 5150 1700 
+L 4075 1700 
+z
+M 2725 1700 
+L 2725 975 
+L 3750 975 
+L 3750 1700 
+L 2725 1700 
+z
+M 2450 3450 
+L 4700 3450 
+L 5025 3775 
+L 5450 3300 
+L 4075 3300 
+L 4075 2650 
+L 5100 2650 
+L 5275 2900 
+L 5650 2600 
+L 5475 2425 
+Q 5475 1225 5500 700 
+L 5150 550 
+L 5150 825 
+L 2725 825 
+L 2725 675 
+L 2375 550 
+Q 2400 1075 2400 1737 
+Q 2400 2400 2375 2875 
+L 2725 2650 
+L 3750 2650 
+L 3750 3300 
+L 3275 3300 
+Q 2950 3300 2675 3225 
+L 2450 3450 
+z
+M 3250 700 
+L 3625 300 
+Q 3425 275 2825 -75 
+Q 2225 -425 1650 -600 
+L 1625 -525 
+Q 2725 50 3250 700 
+z
+M 4200 650 
+Q 5200 325 5487 150 
+Q 5775 -25 5750 -287 
+Q 5725 -550 5625 -550 
+Q 5550 -550 5400 -375 
+Q 5100 -25 4150 575 
+L 4200 650 
+z
+M 2100 4000 
+Q 1400 1450 1337 1137 
+Q 1275 825 1262 375 
+Q 1250 -75 1275 -300 
+Q 1275 -425 1175 -425 
+Q 1075 -425 900 -337 
+Q 725 -250 725 -75 
+Q 725 75 800 300 
+Q 900 575 900 725 
+Q 900 875 787 975 
+Q 675 1075 300 1175 
+L 300 1275 
+Q 750 1225 837 1237 
+Q 925 1250 1075 1462 
+Q 1225 1675 2000 4025 
+L 2100 4000 
+z
+M 325 3550 
+Q 1175 3200 1187 2925 
+Q 1200 2650 1112 2562 
+Q 1025 2475 975 2475 
+Q 900 2475 825 2675 
+Q 700 2975 275 3475 
+L 325 3550 
+z
+M 900 5000 
+Q 1575 4725 1650 4562 
+Q 1725 4400 1725 4325 
+Q 1725 4225 1637 4075 
+Q 1550 3925 1500 3925 
+Q 1425 3925 1350 4150 
+Q 1225 4475 850 4950 
+L 900 5000 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-5316" d="M 1375 -600 
+Q 1400 200 1400 925 
+L 1400 3125 
+Q 850 2300 350 1775 
+L 275 1850 
+Q 825 2625 1300 3650 
+Q 1775 4675 1900 5200 
+L 2450 4875 
+L 2200 4725 
+Q 1875 4000 1600 3475 
+L 1950 3275 
+L 1750 3075 
+L 1750 350 
+Q 1750 75 1775 -400 
+L 1375 -600 
+z
+M 3450 2125 
+L 3450 3925 
+Q 3450 4475 3425 5200 
+L 4000 4925 
+L 3800 4725 
+L 3800 2400 
+Q 4150 2725 4562 3225 
+Q 4975 3725 5150 4025 
+L 5600 3600 
+L 5325 3525 
+Q 4600 2700 3800 2000 
+L 3800 425 
+Q 3800 0 4225 0 
+L 5300 0 
+Q 5500 0 5550 325 
+Q 5600 650 5600 1325 
+L 5725 1325 
+Q 5775 650 5850 425 
+Q 5925 200 6125 125 
+Q 5900 -325 5400 -325 
+L 4075 -325 
+Q 3450 -325 3450 250 
+L 3450 1775 
+Q 2800 1275 1950 925 
+L 1925 1025 
+Q 2800 1525 3450 2125 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-ff1a" d="M 1550 675 
+Q 1700 575 1687 337 
+Q 1675 100 1500 0 
+Q 1325 -100 1250 -100 
+Q 1175 -100 1000 0 
+Q 825 100 812 350 
+Q 800 600 962 687 
+Q 1125 775 1250 775 
+Q 1400 775 1550 675 
+z
+M 1550 2187 
+Q 1725 2100 1725 1837 
+Q 1725 1575 1525 1487 
+Q 1325 1400 1250 1400 
+Q 1125 1400 962 1512 
+Q 800 1625 812 1862 
+Q 825 2100 1000 2187 
+Q 1175 2275 1275 2275 
+Q 1375 2275 1550 2187 
+z
+" transform="scale(0.015625)"/>
+     <path id="STIXGeneral-Regular-30" d="M 3046 2112 
+Q 3046 1683 2963 1302 
+Q 2880 922 2717 602 
+Q 2554 282 2266 96 
+Q 1978 -90 1600 -90 
+Q 1210 -90 915 108 
+Q 621 307 461 640 
+Q 301 973 227 1350 
+Q 154 1728 154 2150 
+Q 154 2746 301 3222 
+Q 448 3699 790 4012 
+Q 1133 4326 1626 4326 
+Q 2253 4326 2649 3712 
+Q 3046 3098 3046 2112 
+z
+M 2432 2080 
+Q 2432 3091 2217 3625 
+Q 2003 4160 1587 4160 
+Q 1190 4160 979 3622 
+Q 768 3085 768 2106 
+Q 768 1120 979 598 
+Q 1190 77 1600 77 
+Q 2003 77 2217 598 
+Q 2432 1120 2432 2080 
+z
+" transform="scale(0.015625)"/>
+     <path id="STIXGeneral-Regular-223c" d="M 3866 2317 
+L 4077 2317 
+Q 4045 1843 3769 1427 
+Q 3494 1011 3066 1011 
+Q 2803 1011 2460 1216 
+Q 2118 1421 1804 1625 
+Q 1491 1830 1306 1830 
+Q 992 1830 800 1580 
+Q 608 1331 518 947 
+L 307 947 
+Q 333 1466 617 1859 
+Q 902 2253 1350 2253 
+Q 1613 2253 1955 2048 
+Q 2298 1843 2611 1638 
+Q 2925 1434 3117 1434 
+Q 3680 1434 3866 2317 
+z
+" transform="scale(0.015625)"/>
+     <path id="STIXGeneral-Regular-38" d="M 2848 992 
+Q 2848 499 2505 204 
+Q 2163 -90 1587 -90 
+Q 1050 -90 704 204 
+Q 358 499 358 954 
+Q 358 1293 524 1533 
+Q 691 1773 1190 2125 
+Q 710 2522 553 2765 
+Q 397 3008 397 3328 
+Q 397 3782 745 4054 
+Q 1094 4326 1638 4326 
+Q 2106 4326 2410 4060 
+Q 2714 3795 2714 3411 
+Q 2714 3059 2531 2848 
+Q 2349 2637 1856 2374 
+Q 2432 1990 2640 1689 
+Q 2848 1389 2848 992 
+z
+M 2272 3411 
+Q 2272 3744 2086 3945 
+Q 1901 4147 1574 4147 
+Q 1248 4147 1059 3977 
+Q 870 3808 870 3513 
+Q 870 3219 1059 2979 
+Q 1248 2739 1670 2490 
+Q 1997 2682 2134 2896 
+Q 2272 3110 2272 3411 
+z
+M 1734 1741 
+L 1357 1997 
+Q 1075 1766 960 1545 
+Q 845 1325 845 1011 
+Q 845 576 1065 333 
+Q 1286 90 1658 90 
+Q 1971 90 2166 285 
+Q 2362 480 2362 794 
+Q 2362 1082 2214 1299 
+Q 2067 1517 1734 1741 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-73" d="M 625 2175 
+Q 625 2550 912 2750 
+Q 1200 2950 1600 2950 
+Q 1825 2950 2025 2900 
+Q 2225 2825 2300 2825 
+Q 2375 2825 2425 2850 
+Q 2475 2875 2550 2950 
+L 2650 2125 
+L 2500 2100 
+Q 2400 2425 2162 2612 
+Q 1925 2800 1625 2800 
+Q 1300 2800 1112 2675 
+Q 925 2550 925 2325 
+Q 925 2125 1012 2012 
+Q 1100 1900 1325 1850 
+Q 1500 1775 1775 1700 
+Q 2025 1600 2250 1500 
+Q 2450 1400 2587 1237 
+Q 2725 1075 2725 875 
+Q 2725 500 2462 287 
+Q 2200 75 1700 75 
+Q 1375 75 1225 150 
+Q 1050 200 950 200 
+Q 875 200 787 162 
+Q 700 125 600 75 
+L 525 1000 
+L 675 1025 
+Q 750 625 1000 425 
+Q 1250 225 1700 225 
+Q 2050 225 2237 350 
+Q 2425 475 2425 725 
+Q 2425 900 2325 1012 
+Q 2225 1125 2125 1175 
+Q 1875 1275 1575 1400 
+Q 1275 1500 1050 1600 
+Q 825 1700 725 1850 
+Q 625 2000 625 2175 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-ff0c" d="M 1137 150 
+Q 1275 325 1375 650 
+Q 1150 650 1050 725 
+Q 950 800 912 925 
+Q 875 1050 900 1162 
+Q 925 1275 1075 1387 
+Q 1225 1500 1450 1450 
+Q 1675 1400 1725 1262 
+Q 1775 1125 1775 1000 
+Q 1775 850 1700 612 
+Q 1625 375 1362 87 
+Q 1100 -200 937 -225 
+Q 775 -250 775 -225 
+Q 775 -200 850 -150 
+Q 1000 -25 1137 150 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-9644" d="M 3675 2500 
+L 3725 2575 
+Q 4300 2300 4437 2137 
+Q 4575 1975 4575 1850 
+Q 4575 1750 4500 1625 
+Q 4425 1500 4375 1500 
+Q 4300 1500 4225 1725 
+Q 4100 2075 3675 2500 
+z
+M 3225 3175 
+Q 3225 0 3250 -350 
+L 2900 -525 
+Q 2925 75 2925 3175 
+Q 2525 2625 2275 2375 
+L 2225 2450 
+Q 2650 3050 3012 3950 
+Q 3375 4850 3425 5175 
+L 3900 4875 
+L 3700 4725 
+Q 3400 4075 3125 3500 
+L 3425 3325 
+L 3225 3175 
+z
+M 4100 50 
+Q 4725 -50 4825 -25 
+Q 4925 0 4925 150 
+L 4925 3150 
+L 4400 3150 
+Q 4075 3150 3800 3075 
+L 3575 3300 
+L 4925 3300 
+Q 4925 4375 4900 5125 
+L 5425 4900 
+L 5250 4725 
+L 5250 3300 
+L 5500 3300 
+L 5750 3550 
+L 6125 3150 
+L 5250 3150 
+L 5250 25 
+Q 5250 -200 5150 -300 
+Q 5050 -400 4750 -525 
+Q 4600 -175 4100 -50 
+L 4100 50 
+z
+M 750 -675 
+Q 775 25 775 2287 
+Q 775 4550 750 4975 
+L 1125 4750 
+L 1950 4750 
+L 2175 5000 
+L 2525 4650 
+L 2300 4500 
+L 1675 3025 
+Q 2200 2400 2287 2137 
+Q 2375 1875 2375 1675 
+Q 2375 1475 2262 1200 
+Q 2150 925 1650 700 
+Q 1525 1050 1100 1200 
+L 1100 -500 
+L 750 -675 
+z
+M 1975 4600 
+L 1100 4600 
+L 1100 1300 
+Q 1425 1200 1600 1200 
+Q 1775 1200 1925 1300 
+Q 2075 1400 2037 1850 
+Q 2000 2300 1525 3100 
+L 1975 4600 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-5f55" d="M 5100 2075 
+Q 4575 1825 4050 1475 
+Q 5000 300 6100 225 
+L 6100 125 
+Q 5600 0 5550 -250 
+Q 4025 575 3375 2425 
+L 3375 225 
+Q 3425 -300 2800 -575 
+Q 2750 -225 2000 0 
+L 2000 100 
+Q 2625 25 2825 25 
+Q 3025 25 3025 325 
+L 3025 2850 
+L 1100 2850 
+Q 775 2850 500 2775 
+L 275 3000 
+L 4350 3000 
+L 4350 3800 
+L 2300 3800 
+Q 1975 3800 1700 3725 
+L 1475 3950 
+L 4350 3950 
+L 4350 4700 
+L 1925 4700 
+Q 1600 4700 1325 4625 
+L 1100 4850 
+L 4300 4850 
+L 4500 5100 
+L 4925 4750 
+L 4675 4575 
+L 4675 3000 
+L 5200 3000 
+L 5575 3375 
+L 6100 2850 
+L 3375 2850 
+L 3375 2725 
+Q 3675 2025 3975 1600 
+Q 4700 2125 5000 2600 
+L 5400 2100 
+L 5100 2075 
+z
+M 1200 2500 
+L 1250 2575 
+Q 2075 2225 2150 2062 
+Q 2225 1900 2225 1850 
+Q 2225 1725 2125 1562 
+Q 2025 1400 1975 1400 
+Q 1900 1400 1800 1650 
+Q 1650 2025 1200 2500 
+z
+M 325 375 
+Q 625 450 1275 687 
+Q 1925 925 3025 1475 
+L 3025 1325 
+Q 2050 800 1425 425 
+Q 800 50 675 -150 
+L 325 375 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-5e38" d="M 1525 5075 
+Q 2125 4800 2250 4650 
+Q 2375 4500 2375 4375 
+Q 2375 4325 2325 4200 
+Q 2275 4075 2175 4050 
+Q 2075 4025 1950 4375 
+Q 1800 4700 1475 5000 
+L 1525 5075 
+z
+M 1050 4225 
+L 1050 3950 
+L 3025 3950 
+Q 3025 4900 3000 5225 
+L 3525 5000 
+L 3350 4850 
+L 3350 3950 
+L 5350 3950 
+L 5600 4225 
+L 6050 3775 
+Q 5700 3750 5200 3100 
+L 5125 3150 
+L 5400 3800 
+L 1050 3800 
+Q 1075 3350 950 3175 
+Q 825 3000 662 2987 
+Q 500 2975 450 3112 
+Q 400 3250 625 3400 
+Q 825 3550 950 4225 
+L 1050 4225 
+z
+M 4500 5125 
+L 4925 4775 
+Q 4725 4725 4475 4500 
+Q 4225 4250 3900 3975 
+L 3825 4050 
+Q 4075 4350 4225 4600 
+Q 4375 4850 4500 5125 
+z
+M 2225 3050 
+L 2225 2350 
+L 4175 2350 
+L 4175 3050 
+L 2225 3050 
+z
+M 4000 400 
+Q 4475 300 4637 287 
+Q 4800 275 4800 450 
+L 4800 1425 
+L 3350 1425 
+Q 3350 0 3375 -500 
+L 3000 -625 
+Q 3025 -25 3025 1425 
+L 1625 1425 
+L 1625 -75 
+L 1250 -200 
+Q 1275 300 1275 787 
+Q 1275 1275 1250 1750 
+L 1650 1575 
+L 3025 1575 
+L 3025 2200 
+L 2225 2200 
+L 2225 2000 
+L 1875 1900 
+Q 1900 2275 1900 2650 
+Q 1900 3025 1875 3400 
+L 2225 3200 
+L 4150 3200 
+L 4375 3425 
+L 4675 3125 
+L 4500 2975 
+Q 4500 2325 4525 2100 
+L 4175 1975 
+L 4175 2200 
+L 3350 2200 
+L 3350 1575 
+L 4750 1575 
+L 4975 1800 
+L 5325 1450 
+L 5125 1300 
+L 5125 325 
+Q 5125 -50 4625 -250 
+Q 4525 100 3975 300 
+L 4000 400 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-7269" d="M 3425 5225 
+L 3975 4925 
+L 3775 4800 
+Q 3600 4400 3400 3950 
+L 5500 3950 
+L 5675 4200 
+L 6075 3875 
+L 5900 3725 
+Q 5775 650 5575 137 
+Q 5375 -375 4650 -525 
+Q 4700 -150 3975 100 
+L 4000 200 
+Q 4650 50 4875 50 
+Q 5100 50 5250 387 
+Q 5400 725 5550 3800 
+L 5075 3800 
+Q 4825 2050 4150 1112 
+Q 3475 175 2450 -375 
+L 2400 -300 
+Q 3375 400 3925 1325 
+Q 4475 2250 4700 3800 
+L 4175 3800 
+Q 3750 2075 2400 975 
+L 2350 1050 
+Q 3525 2375 3800 3800 
+L 3350 3800 
+Q 2875 2975 2475 2550 
+L 2400 2600 
+Q 2850 3325 3112 4062 
+Q 3375 4800 3425 5225 
+z
+M 1925 2050 
+L 2700 2375 
+L 2725 2275 
+L 1925 1825 
+Q 1925 200 1950 -425 
+L 1575 -600 
+Q 1600 -75 1600 1675 
+Q 725 1275 625 1050 
+L 350 1475 
+Q 775 1575 1600 1925 
+L 1600 3425 
+L 950 3425 
+Q 675 2825 325 2325 
+L 250 2375 
+Q 525 2950 687 3625 
+Q 850 4300 850 4650 
+L 1425 4375 
+L 1200 4225 
+Q 1100 3950 975 3575 
+L 1600 3575 
+Q 1600 4775 1575 5200 
+L 2150 4950 
+L 1925 4775 
+L 1925 3575 
+L 2100 3575 
+L 2375 3875 
+L 2775 3425 
+L 1925 3425 
+L 1925 2050 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-6027" d="M 3975 3450 
+Q 3975 4800 3950 5200 
+L 4575 4925 
+L 4325 4750 
+L 4325 3450 
+L 5050 3450 
+L 5400 3800 
+L 5900 3300 
+L 4325 3300 
+L 4325 1925 
+L 4975 1925 
+L 5300 2250 
+L 5775 1775 
+L 4325 1775 
+L 4325 25 
+L 5300 25 
+L 5650 375 
+L 6150 -125 
+L 2875 -125 
+Q 2550 -125 2275 -200 
+L 2050 25 
+L 3975 25 
+L 3975 1775 
+L 3450 1775 
+Q 3125 1775 2850 1700 
+L 2625 1925 
+L 3975 1925 
+L 3975 3300 
+L 2950 3300 
+Q 2625 2500 2225 2000 
+L 2150 2050 
+Q 2450 2650 2650 3387 
+Q 2850 4125 2900 4600 
+L 3475 4325 
+L 3250 4175 
+L 3000 3450 
+L 3975 3450 
+z
+M 875 3625 
+Q 950 2875 900 2687 
+Q 850 2500 737 2437 
+Q 625 2375 550 2375 
+Q 500 2375 412 2412 
+Q 325 2450 325 2475 
+Q 325 2575 500 2775 
+Q 725 3050 775 3625 
+L 875 3625 
+z
+M 1575 3950 
+Q 1975 3800 2150 3675 
+Q 2325 3550 2300 3350 
+Q 2275 3150 2175 3075 
+Q 2075 3000 1975 3275 
+Q 1850 3550 1575 3825 
+L 1575 500 
+Q 1575 75 1600 -425 
+L 1200 -600 
+Q 1225 125 1225 700 
+L 1225 4225 
+Q 1225 4650 1200 5250 
+L 1800 4975 
+L 1575 4800 
+L 1575 3950 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-4ef6" d="M 3975 3550 
+Q 3975 4500 3950 5250 
+L 4550 4975 
+L 4325 4800 
+L 4325 3550 
+L 5100 3550 
+L 5400 3850 
+L 5850 3400 
+L 4325 3400 
+L 4325 1950 
+L 5375 1950 
+L 5675 2250 
+L 6125 1800 
+L 4325 1800 
+Q 4325 -100 4350 -475 
+L 3950 -650 
+Q 3975 575 3975 1800 
+L 2875 1800 
+Q 2550 1800 2275 1725 
+L 2050 1950 
+L 3975 1950 
+L 3975 3400 
+L 2900 3400 
+Q 2600 2700 2225 2200 
+L 2150 2250 
+Q 2425 2825 2587 3400 
+Q 2750 3975 2850 4650 
+L 3375 4375 
+L 3175 4225 
+Q 3075 3950 2950 3550 
+L 3975 3550 
+z
+M 1300 -650 
+Q 1325 125 1325 550 
+L 1325 3200 
+Q 675 2225 300 1850 
+L 225 1925 
+Q 425 2200 687 2625 
+Q 950 3050 1275 3750 
+Q 1600 4450 1850 5250 
+L 2375 4900 
+L 2175 4750 
+Q 1700 3900 1550 3625 
+L 1875 3400 
+L 1675 3225 
+L 1675 625 
+Q 1675 175 1700 -425 
+L 1300 -650 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-73af" d="M 300 4600 
+L 1900 4600 
+L 2200 4900 
+L 2625 4525 
+L 1675 4525 
+L 1675 3000 
+L 1950 3000 
+L 2225 3275 
+L 2625 2850 
+L 1675 2850 
+L 1675 1400 
+L 2550 1775 
+L 2575 1675 
+Q 975 800 525 475 
+L 250 925 
+Q 775 1050 1325 1275 
+L 1325 2850 
+L 1225 2850 
+Q 900 2850 625 2775 
+L 400 3000 
+L 1325 3000 
+L 1325 4450 
+L 1125 4450 
+Q 800 4450 525 4375 
+L 300 4600 
+z
+M 4250 3000 
+L 4250 700 
+Q 4250 25 4275 -375 
+L 3875 -575 
+L 3900 25 
+Q 3900 500 3900 2975 
+Q 3150 1625 2125 900 
+L 2075 975 
+Q 3475 2400 4100 4525 
+L 3400 4525 
+Q 3075 4525 2800 4450 
+L 2575 4675 
+L 5300 4675 
+L 5675 5000 
+L 6075 4525 
+L 4500 4525 
+Q 4300 3925 4075 3375 
+L 4400 3175 
+L 4250 3000 
+z
+M 4575 2800 
+Q 5525 2150 5700 1912 
+Q 5875 1675 5875 1475 
+Q 5875 1325 5800 1187 
+Q 5725 1050 5700 1050 
+Q 5625 1050 5575 1200 
+Q 5450 1450 5237 1825 
+Q 5025 2200 4525 2725 
+L 4575 2800 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-5883" d="M 3575 5200 
+L 3650 5250 
+Q 4050 5075 4150 4962 
+Q 4250 4850 4250 4775 
+Q 4250 4675 4162 4562 
+Q 4075 4450 4050 4450 
+Q 3975 4450 3925 4625 
+Q 3850 4875 3575 5200 
+z
+M 2425 4425 
+L 5075 4425 
+L 5350 4700 
+L 5775 4275 
+L 3250 4275 
+Q 2875 4275 2650 4200 
+L 2425 4425 
+z
+M 3100 4125 
+L 3175 4175 
+Q 3725 3850 3737 3650 
+Q 3750 3450 3650 3362 
+Q 3550 3275 3525 3275 
+Q 3425 3275 3400 3475 
+Q 3350 3775 3100 4125 
+z
+M 4350 3225 
+Q 4625 3775 4725 4225 
+L 5200 3925 
+L 5000 3825 
+Q 4750 3550 4475 3225 
+L 5350 3225 
+L 5650 3525 
+L 6100 3075 
+L 2900 3075 
+Q 2575 3075 2300 3000 
+L 2075 3225 
+L 4350 3225 
+z
+M 6125 -150 
+Q 5925 -500 5475 -500 
+L 4775 -500 
+Q 4225 -500 4225 125 
+L 4225 1050 
+L 3800 1050 
+Q 3725 300 3287 -75 
+Q 2850 -450 1475 -625 
+L 1450 -525 
+Q 2650 -275 3037 75 
+Q 3425 425 3450 1050 
+L 3050 1050 
+L 3050 925 
+L 2700 775 
+Q 2725 1300 2725 1875 
+Q 2725 2450 2700 2875 
+L 3075 2650 
+L 4975 2650 
+L 5200 2875 
+L 5550 2525 
+L 5325 2375 
+Q 5325 1300 5350 975 
+L 5000 850 
+L 5000 1050 
+L 4550 1050 
+L 4550 150 
+Q 4550 -225 4900 -225 
+L 5375 -225 
+Q 5575 -225 5625 75 
+Q 5675 375 5700 900 
+L 5825 900 
+Q 5825 550 5862 225 
+Q 5900 -100 6125 -150 
+z
+M 3050 2500 
+L 3050 1925 
+L 5000 1925 
+L 5000 2500 
+L 3050 2500 
+z
+M 3050 1775 
+L 3050 1200 
+L 5000 1200 
+L 5000 1775 
+L 3050 1775 
+z
+M 1550 1300 
+L 2525 1550 
+L 2550 1450 
+Q 775 800 575 550 
+L 300 1025 
+Q 625 1075 1200 1225 
+L 1200 3300 
+L 750 3300 
+L 475 3250 
+L 275 3450 
+L 1200 3450 
+Q 1200 4725 1175 5125 
+L 1750 4875 
+L 1550 4725 
+L 1550 3450 
+L 1750 3450 
+L 2025 3725 
+L 2450 3300 
+L 1550 3300 
+L 1550 1300 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-2192" d="M 4150 2150 
+L 525 2150 
+L 525 2450 
+L 4150 2450 
+L 3725 3025 
+L 3725 3100 
+L 5875 2300 
+L 3725 1500 
+L 3725 1575 
+L 4150 2150 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-3001" d="M 1675 325 
+Q 1450 850 700 1300 
+L 725 1375 
+Q 1300 1250 1612 1062 
+Q 1925 875 2062 725 
+Q 2200 575 2237 325 
+Q 2275 75 2162 -12 
+Q 2050 -100 2000 -100 
+Q 1850 -100 1675 325 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-8868" d="M 2300 -25 
+L 3600 525 
+L 3650 425 
+Q 2550 -225 2100 -600 
+L 1800 -200 
+Q 1925 -100 1925 200 
+L 1925 1175 
+Q 1225 675 250 375 
+L 225 475 
+Q 1125 875 1725 1375 
+Q 2325 1875 2775 2500 
+L 1150 2500 
+Q 825 2500 550 2425 
+L 325 2650 
+L 2925 2650 
+L 2925 3375 
+L 1950 3375 
+Q 1625 3375 1350 3300 
+L 1125 3525 
+L 2925 3525 
+L 2925 4200 
+L 1525 4200 
+Q 1200 4200 925 4125 
+L 700 4350 
+L 2925 4350 
+Q 2925 4825 2900 5225 
+L 3475 4975 
+L 3275 4800 
+L 3275 4350 
+L 4900 4350 
+L 5250 4700 
+L 5725 4200 
+L 3275 4200 
+L 3275 3525 
+L 4550 3525 
+L 4875 3850 
+L 5325 3375 
+L 3275 3375 
+L 3275 2650 
+L 5150 2650 
+L 5525 3025 
+L 6025 2500 
+L 3250 2500 
+Q 3500 1850 3875 1300 
+Q 4600 1875 4925 2375 
+L 5350 1950 
+L 5100 1925 
+Q 4450 1525 3950 1200 
+Q 4350 725 4850 462 
+Q 5350 200 6100 125 
+L 6100 25 
+Q 5700 -25 5525 -325 
+Q 4800 -50 4162 550 
+Q 3525 1150 3125 2375 
+Q 2775 1900 2300 1450 
+L 2300 -25 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-9762" d="M 2650 1175 
+L 2650 75 
+L 3700 75 
+L 3700 1175 
+L 2650 1175 
+z
+M 2475 3575 
+Q 2675 4150 2750 4650 
+L 1150 4650 
+Q 775 4650 500 4575 
+L 275 4800 
+L 5275 4800 
+L 5675 5175 
+L 6125 4650 
+L 3000 4650 
+L 3375 4450 
+L 3125 4375 
+Q 2825 3950 2625 3575 
+L 5075 3575 
+L 5250 3825 
+L 5650 3525 
+L 5475 3350 
+Q 5475 1100 5500 -400 
+L 5125 -575 
+L 5125 -75 
+L 1250 -75 
+L 1250 -425 
+L 875 -600 
+Q 900 275 900 1637 
+Q 900 3000 875 3775 
+L 1250 3575 
+L 2475 3575 
+z
+M 1250 3425 
+L 1250 75 
+L 2325 75 
+L 2325 3425 
+L 1250 3425 
+z
+M 4025 3425 
+L 4025 75 
+L 5125 75 
+L 5125 3425 
+L 4025 3425 
+z
+M 2650 3425 
+L 2650 2475 
+L 3700 2475 
+L 3700 3425 
+L 2650 3425 
+z
+M 2650 2325 
+L 2650 1325 
+L 3700 1325 
+L 3700 2325 
+L 2650 2325 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-37" d="M 2825 4200 
+Q 2300 3350 1987 2537 
+Q 1675 1725 1675 1125 
+Q 1675 1025 1700 850 
+Q 1700 650 1700 400 
+Q 1700 200 1637 125 
+Q 1575 50 1425 50 
+Q 1300 50 1212 137 
+Q 1125 225 1125 450 
+Q 1125 925 1337 1625 
+Q 1550 2325 2475 4000 
+L 1225 4000 
+Q 950 4000 787 3825 
+Q 625 3650 550 3300 
+L 400 3325 
+L 575 4375 
+L 2825 4375 
+L 2825 4200 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-39" d="M 700 3050 
+Q 700 2500 912 2212 
+Q 1125 1925 1450 1925 
+Q 1825 1925 2100 2275 
+Q 2375 2625 2375 2925 
+Q 2375 3525 2175 3887 
+Q 1975 4250 1525 4250 
+Q 1100 4250 900 3912 
+Q 700 3575 700 3050 
+z
+M 1375 1700 
+Q 875 1700 575 2012 
+Q 275 2325 275 3025 
+Q 275 3625 600 4025 
+Q 925 4425 1525 4425 
+Q 2150 4425 2500 3925 
+Q 2850 3425 2850 2475 
+Q 2850 1425 2437 737 
+Q 2025 50 1300 50 
+Q 975 50 737 200 
+Q 500 350 500 600 
+Q 500 700 562 800 
+Q 625 900 775 900 
+Q 925 900 975 787 
+Q 1025 675 1025 525 
+Q 1025 425 1050 362 
+Q 1075 300 1100 275 
+Q 1125 250 1187 237 
+Q 1250 225 1325 225 
+Q 1775 225 2050 725 
+Q 2325 1225 2375 2400 
+Q 2250 2100 2000 1900 
+Q 1750 1700 1375 1700 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-ff1b" d="M 1350 50 
+Q 1175 50 1062 87 
+Q 950 125 900 225 
+Q 850 325 862 437 
+Q 875 550 937 625 
+Q 1000 700 1087 737 
+Q 1175 775 1225 775 
+Q 1300 775 1412 737 
+Q 1525 700 1600 562 
+Q 1675 425 1675 300 
+Q 1675 175 1612 -37 
+Q 1550 -250 1375 -387 
+Q 1200 -525 1062 -550 
+Q 925 -575 925 -550 
+Q 925 -525 1000 -500 
+Q 1125 -400 1212 -287 
+Q 1300 -175 1350 50 
+z
+M 1512 2200 
+Q 1675 2150 1687 1862 
+Q 1700 1575 1525 1487 
+Q 1350 1400 1250 1400 
+Q 1150 1400 975 1500 
+Q 800 1600 812 1837 
+Q 825 2075 975 2162 
+Q 1125 2250 1250 2250 
+Q 1350 2250 1512 2200 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-4ec5" d="M 2850 4300 
+Q 3050 3275 3287 2600 
+Q 3525 1925 3850 1425 
+Q 4175 1925 4425 2650 
+Q 4675 3375 4825 4300 
+L 2850 4300 
+z
+M 5200 4175 
+Q 4900 2825 4637 2212 
+Q 4375 1600 4050 1150 
+Q 4400 750 4887 400 
+Q 5375 50 6025 -150 
+L 6025 -225 
+Q 5600 -275 5500 -525 
+Q 4975 -225 4587 112 
+Q 4200 450 3875 875 
+Q 3400 325 2862 -25 
+Q 2325 -375 1650 -625 
+L 1600 -525 
+Q 2250 -225 2762 200 
+Q 3275 625 3675 1150 
+Q 3275 1750 3050 2475 
+Q 2825 3200 2700 4300 
+L 2550 4300 
+L 2325 4250 
+L 2125 4450 
+L 4825 4450 
+L 5050 4700 
+L 5450 4350 
+L 5200 4175 
+z
+M 1225 3250 
+Q 725 2525 275 2025 
+L 200 2075 
+Q 675 2750 1087 3625 
+Q 1500 4500 1650 5175 
+L 2175 4850 
+L 1975 4725 
+Q 1650 4025 1350 3450 
+L 1725 3250 
+L 1575 3100 
+L 1575 325 
+Q 1575 75 1600 -325 
+L 1200 -600 
+Q 1225 100 1225 600 
+L 1225 3250 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-4e0b" d="M 450 4575 
+L 5075 4575 
+L 5450 4950 
+L 5975 4425 
+L 3250 4425 
+L 3250 3125 
+Q 4750 2675 4987 2412 
+Q 5225 2150 5225 1950 
+Q 5225 1875 5162 1737 
+Q 5100 1600 5050 1600 
+Q 4950 1600 4700 1925 
+Q 4350 2400 3250 3000 
+L 3250 450 
+Q 3250 -75 3275 -425 
+L 2850 -600 
+Q 2875 325 2875 675 
+L 2875 4425 
+L 1275 4425 
+Q 950 4425 675 4350 
+L 450 4575 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-964d" d="M 3650 4500 
+Q 3600 4425 3550 4325 
+Q 3850 3825 4200 3500 
+Q 4600 3925 5000 4500 
+L 3650 4500 
+z
+M 4000 5000 
+L 3800 4875 
+L 3700 4650 
+L 5000 4650 
+L 5225 4875 
+L 5575 4525 
+L 5350 4400 
+Q 4825 3725 4400 3325 
+Q 5000 2825 6075 2750 
+L 6075 2675 
+Q 5775 2650 5650 2375 
+Q 4800 2650 4225 3125 
+Q 3475 2525 2550 2225 
+L 2500 2325 
+Q 3300 2675 4025 3325 
+Q 3700 3700 3475 4225 
+Q 3100 3625 2550 3200 
+L 2500 3275 
+Q 2950 3775 3200 4337 
+Q 3450 4900 3500 5250 
+L 4000 5000 
+z
+M 4450 700 
+Q 4450 -275 4475 -500 
+L 4100 -625 
+Q 4125 -200 4125 700 
+L 2925 700 
+L 2775 525 
+L 2450 825 
+L 2650 950 
+Q 2925 1525 2950 1725 
+L 3375 1425 
+L 3200 1325 
+Q 3125 1200 2950 850 
+L 4125 850 
+L 4125 1875 
+L 3575 1875 
+Q 3250 1875 2975 1800 
+L 2750 2025 
+L 4125 2025 
+Q 4125 2500 4100 2750 
+L 4650 2500 
+L 4450 2325 
+L 4450 2025 
+L 5075 2025 
+L 5350 2300 
+L 5750 1875 
+L 4450 1875 
+L 4450 850 
+L 5400 850 
+L 5675 1125 
+L 6075 700 
+L 4450 700 
+z
+M 1100 1325 
+Q 1100 125 1125 -475 
+L 750 -650 
+Q 775 525 775 2325 
+Q 775 4125 750 5025 
+L 1100 4800 
+L 2000 4800 
+L 2225 5025 
+L 2575 4675 
+L 2375 4550 
+L 1675 3175 
+Q 2050 2825 2275 2512 
+Q 2500 2200 2512 1875 
+Q 2525 1550 2387 1287 
+Q 2250 1025 1750 800 
+Q 1625 1100 1100 1325 
+z
+M 2000 4650 
+L 1100 4650 
+L 1100 1450 
+Q 1475 1325 1750 1325 
+Q 1950 1325 2050 1450 
+Q 2150 1575 2150 1800 
+Q 2150 1975 2112 2250 
+Q 2075 2525 1550 3175 
+L 2000 4650 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-51e0" d="M 2275 4525 
+Q 2300 2500 2212 1812 
+Q 2125 1125 1775 537 
+Q 1425 -50 400 -675 
+L 375 -575 
+Q 1325 150 1612 925 
+Q 1900 1700 1900 2837 
+Q 1900 3975 1875 4925 
+L 2300 4675 
+L 4025 4675 
+L 4250 4925 
+L 4675 4575 
+L 4425 4400 
+L 4425 425 
+Q 4400 -25 4825 -25 
+L 5300 -25 
+Q 5550 -50 5587 300 
+Q 5625 650 5650 1375 
+L 5775 1375 
+Q 5800 725 5850 475 
+Q 5900 225 6150 50 
+Q 5925 -325 5500 -350 
+L 4650 -350 
+Q 4050 -350 4050 275 
+L 4050 4525 
+L 2275 4525 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-4e4e" d="M 1325 3875 
+L 1400 3950 
+Q 2225 3300 2262 3162 
+Q 2300 3025 2300 2950 
+Q 2300 2775 2200 2675 
+Q 2100 2575 2050 2575 
+Q 1950 2575 1875 2850 
+Q 1775 3250 1325 3875 
+z
+M 4750 4200 
+L 5275 3850 
+L 5025 3750 
+Q 4500 2925 4000 2450 
+L 3925 2500 
+Q 4550 3425 4750 4200 
+z
+M 1875 150 
+Q 2525 25 2762 25 
+Q 3000 25 3025 300 
+L 3025 2125 
+L 1150 2125 
+Q 825 2125 550 2050 
+L 325 2275 
+L 3025 2275 
+L 3025 4400 
+Q 2150 4325 750 4275 
+L 750 4400 
+Q 2125 4475 3262 4687 
+Q 4400 4900 5025 5200 
+L 5400 4725 
+Q 4950 4700 3400 4450 
+L 3400 2275 
+L 5200 2275 
+L 5575 2650 
+L 6100 2125 
+L 3400 2125 
+L 3400 50 
+Q 3400 -400 2775 -625 
+Q 2800 -250 1875 25 
+L 1875 150 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-4e0d" d="M 3375 3175 
+L 3375 775 
+Q 3375 25 3400 -375 
+L 2975 -550 
+Q 3000 400 3000 1100 
+L 3000 3300 
+Q 2000 1775 400 850 
+L 350 950 
+Q 1175 1550 1937 2462 
+Q 2700 3375 3175 4600 
+L 1225 4600 
+Q 900 4600 625 4525 
+L 400 4750 
+L 5150 4750 
+L 5525 5125 
+L 6050 4600 
+L 3675 4600 
+Q 3450 4175 3175 3600 
+L 3600 3350 
+L 3375 3175 
+z
+M 3900 3100 
+L 3975 3175 
+Q 5575 2125 5737 1875 
+Q 5900 1625 5900 1475 
+Q 5900 1375 5825 1237 
+Q 5750 1100 5700 1100 
+Q 5600 1100 5400 1500 
+Q 5100 2025 3900 3100 
+z
+" transform="scale(0.015625)"/>
+     <path id="SimSun-53d8" d="M 2750 4225 
+L 2750 2225 
+L 3650 2225 
+L 3650 4225 
+L 2750 4225 
+z
+M 375 4375 
+L 3100 4375 
+Q 3050 4750 2650 5200 
+L 2700 5275 
+Q 3150 5075 3325 4925 
+Q 3500 4775 3500 4700 
+Q 3500 4550 3300 4375 
+L 5125 4375 
+L 5525 4775 
+L 6075 4225 
+L 4000 4225 
+L 4000 2225 
+L 4425 2225 
+L 4675 2500 
+L 5100 2100 
+L 4825 1975 
+Q 4300 1325 3525 650 
+Q 4500 -50 6125 -175 
+L 6125 -275 
+Q 5750 -325 5625 -575 
+Q 4175 -250 3300 450 
+Q 2150 -300 350 -600 
+L 325 -500 
+Q 2050 -100 3075 675 
+Q 2525 1250 2100 2075 
+L 1650 2075 
+L 1375 2025 
+L 1175 2225 
+L 2400 2225 
+L 2400 4225 
+L 1200 4225 
+Q 875 4225 600 4150 
+L 375 4375 
+z
+M 2275 2075 
+Q 2725 1350 3300 850 
+Q 3800 1300 4425 2075 
+L 2275 2075 
+z
+M 1675 3850 
+L 2125 3450 
+L 1875 3350 
+Q 1150 2575 325 1950 
+L 250 2025 
+Q 700 2425 1087 2937 
+Q 1475 3450 1675 3850 
+z
+M 4350 3700 
+Q 5675 3050 5812 2875 
+Q 5950 2700 5950 2575 
+Q 5950 2475 5900 2375 
+Q 5850 2275 5800 2275 
+Q 5700 2275 5500 2550 
+Q 5200 2950 4275 3625 
+L 4350 3700 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#SimSun-56fe" transform="translate(0 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(100 0.578125)"/>
+    <use xlink:href="#SimSun-32" transform="translate(150 0.578125)"/>
+    <use xlink:href="#SimSun-3000" transform="translate(200 0.578125)"/>
+    <use xlink:href="#SimSun-95ee" transform="translate(300 0.578125)"/>
+    <use xlink:href="#SimSun-9898" transform="translate(400 0.578125)"/>
+    <use xlink:href="#SimSun-4e00" transform="translate(500 0.578125)"/>
+    <use xlink:href="#SimSun-9884" transform="translate(600 0.578125)"/>
+    <use xlink:href="#SimSun-70ed" transform="translate(700 0.578125)"/>
+    <use xlink:href="#SimSun-6bb5" transform="translate(800 0.578125)"/>
+    <use xlink:href="#SimSun-6e29" transform="translate(900 0.578125)"/>
+    <use xlink:href="#SimSun-5ea6" transform="translate(1000 0.578125)"/>
+    <use xlink:href="#SimSun-573a" transform="translate(1100 0.578125)"/>
+    <use xlink:href="#SimSun-4e0e" transform="translate(1200 0.578125)"/>
+    <use xlink:href="#SimSun-542b" transform="translate(1300 0.578125)"/>
+    <use xlink:href="#SimSun-6c34" transform="translate(1400 0.578125)"/>
+    <use xlink:href="#SimSun-7387" transform="translate(1500 0.578125)"/>
+    <use xlink:href="#SimSun-573a" transform="translate(1600 0.578125)"/>
+    <use xlink:href="#SimSun-7684" transform="translate(1700 0.578125)"/>
+    <use xlink:href="#SimSun-65f6" transform="translate(1800 0.578125)"/>
+    <use xlink:href="#SimSun-7a7a" transform="translate(1900 0.578125)"/>
+    <use xlink:href="#SimSun-6f14" transform="translate(2000 0.578125)"/>
+    <use xlink:href="#SimSun-5316" transform="translate(2100 0.578125)"/>
+    <use xlink:href="#SimSun-ff1a" transform="translate(2200 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-30" transform="translate(2300 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-223c" transform="translate(2364.439981 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-31" transform="translate(2447.379962 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-38" transform="translate(2497.379947 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-30" transform="translate(2547.379932 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-30" transform="translate(2597.379916 0.578125)"/>
+    <use xlink:href="#SimSun-73" transform="translate(2659.413472 0.578125)"/>
+    <use xlink:href="#SimSun-ff0c" transform="translate(2709.413472 0.578125)"/>
+    <use xlink:href="#SimSun-9644" transform="translate(2809.413472 0.578125)"/>
+    <use xlink:href="#SimSun-5f55" transform="translate(2909.413472 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(3009.413472 0.578125)"/>
+    <use xlink:href="#SimSun-32" transform="translate(3059.413472 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(3109.413472 0.578125)"/>
+    <use xlink:href="#SimSun-5e38" transform="translate(3159.413472 0.578125)"/>
+    <use xlink:href="#SimSun-7269" transform="translate(3259.413472 0.578125)"/>
+    <use xlink:href="#SimSun-6027" transform="translate(3359.413472 0.578125)"/>
+    <use xlink:href="#SimSun-ff0c" transform="translate(3459.413472 0.578125)"/>
+    <use xlink:href="#SimSun-9644" transform="translate(3559.413472 0.578125)"/>
+    <use xlink:href="#SimSun-4ef6" transform="translate(3659.413472 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(3759.413472 0.578125)"/>
+    <use xlink:href="#SimSun-31" transform="translate(3809.413472 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(3859.413472 0.578125)"/>
+    <use xlink:href="#SimSun-73af" transform="translate(3909.413472 0.578125)"/>
+    <use xlink:href="#SimSun-5883" transform="translate(4009.413472 0.578125)"/>
+    <use xlink:href="#SimSun-ff1a" transform="translate(4109.413472 0.578125)"/>
+    <use xlink:href="#SimSun-2192" transform="translate(4209.413472 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(4309.413472 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-31" transform="translate(4359.413472 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-38" transform="translate(4409.413457 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-30" transform="translate(4459.413442 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-30" transform="translate(4509.413426 0.578125)"/>
+    <use xlink:href="#SimSun-73" transform="translate(4571.446982 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(4621.446982 0.578125)"/>
+    <use xlink:href="#SimSun-65f6" transform="translate(4671.446982 0.578125)"/>
+    <use xlink:href="#SimSun-6e29" transform="translate(4771.446982 0.578125)"/>
+    <use xlink:href="#SimSun-5ea6" transform="translate(4871.446982 0.578125)"/>
+    <use xlink:href="#SimSun-4e2d" transform="translate(4971.446982 0.578125)"/>
+    <use xlink:href="#SimSun-5fc3" transform="translate(5071.446982 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(5171.446982 0.578125)"/>
+    <use xlink:href="#SimSun-33" transform="translate(5221.446982 0.578125)"/>
+    <use xlink:href="#SimSun-33" transform="translate(5271.446982 0.578125)"/>
+    <use xlink:href="#SimSun-2e" transform="translate(5321.446982 0.578125)"/>
+    <use xlink:href="#SimSun-35" transform="translate(5371.446982 0.578125)"/>
+    <use xlink:href="#SimSun-38" transform="translate(5421.446982 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-2218" transform="translate(5495.131832 35.853125) scale(0.7)"/>
+    <use xlink:href="#SimSun-43" transform="translate(5534.149193 0.578125)"/>
+    <use xlink:href="#SimSun-3001" transform="translate(5584.149193 0.578125)"/>
+    <use xlink:href="#SimSun-8868" transform="translate(5684.149193 0.578125)"/>
+    <use xlink:href="#SimSun-9762" transform="translate(5784.149193 0.578125)"/>
+    <use xlink:href="#SimSun-20" transform="translate(5884.149193 0.578125)"/>
+    <use xlink:href="#SimSun-33" transform="translate(5934.149193 0.578125)"/>
+    <use xlink:href="#SimSun-36" transform="translate(5984.149193 0.578125)"/>
+    <use xlink:href="#SimSun-2e" transform="translate(6034.149193 0.578125)"/>
+    <use xlink:href="#SimSun-37" transform="translate(6084.149193 0.578125)"/>
+    <use xlink:href="#SimSun-39" transform="translate(6134.149193 0.578125)"/>
+    <use xlink:href="#STIXGeneral-Regular-2218" transform="translate(6207.834043 35.853125) scale(0.7)"/>
+    <use xlink:href="#SimSun-43" transform="translate(6246.851405 0.578125)"/>
+    <use xlink:href="#SimSun-ff1b" transform="translate(6296.851405 0.578125)"/>
+    <use xlink:href="#SimSun-542b" transform="translate(6396.851405 0.578125)"/>
+    <use xlink:href="#SimSun-6c34" transform="translate(6496.851405 0.578125)"/>
+    <use xlink:href="#SimSun-7387" transform="translate(6596.851405 0.578125)"/>
+    <use xlink:href="#SimSun-4ec5" transform="translate(6696.851405 0.578125)"/>
+    <use xlink:href="#SimSun-8868" transform="translate(6796.851405 0.578125)"/>
+    <use xlink:href="#SimSun-9762" transform="translate(6896.851405 0.578125)"/>
+    <use xlink:href="#SimSun-4e0b" transform="translate(6996.851405 0.578125)"/>
+    <use xlink:href="#SimSun-964d" transform="translate(7096.851405 0.578125)"/>
+    <use xlink:href="#SimSun-3001" transform="translate(7196.851405 0.578125)"/>
+    <use xlink:href="#SimSun-4e2d" transform="translate(7296.851405 0.578125)"/>
+    <use xlink:href="#SimSun-5fc3" transform="translate(7396.851405 0.578125)"/>
+    <use xlink:href="#SimSun-51e0" transform="translate(7496.851405 0.578125)"/>
+    <use xlink:href="#SimSun-4e4e" transform="translate(7596.851405 0.578125)"/>
+    <use xlink:href="#SimSun-4e0d" transform="translate(7696.851405 0.578125)"/>
+    <use xlink:href="#SimSun-53d8" transform="translate(7796.851405 0.578125)"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8cd74d5b80">
+   <rect x="67.68" y="21.129688" width="158.338462" height="145.152"/>
+  </clipPath>
+  <clipPath id="p6fd4813267">
+   <rect x="323.310769" y="21.129688" width="158.338462" height="145.152"/>
+  </clipPath>
+ </defs>
+</svg>
