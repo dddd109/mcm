@@ -217,25 +217,12 @@ def fig02():
     fig.subplots_adjust(bottom=0.24, top=0.84, wspace=0.34)
     for i, (ax, sh, cmap, lab) in enumerate(
             ((axs[0], "温度", CMAP_T, "温度 $T$ / $^\\circ$C"),
-             (axs[1], "水分浓度", CMAP_C, "含水率 $\\log_{10}C$ / (kg$\\cdot$kg$^{-1}$)"))):
+             (axs[1], "水分浓度", CMAP_C, "含水率 $C$ / (kg$\\cdot$kg$^{-1}$)"))):
         t, labels, radii, M = d[sh]
         tt = t / 60.0
-        vmin, vmax = float(np.nanmin(M)), float(np.nanmax(M))
-        # 含水率场数值集中在表面干燥层：对数归一化拉开中低值区 + 等值线标干燥前沿
-        if i == 1:
-            pc = ax.pcolormesh(tt, radii, M.T, cmap=cmap, shading="auto",
-                               norm=LogNorm(vmin=max(vmin, 1e-3), vmax=vmax))
-            pc.set_rasterized(True)
-            cs = ax.contour(tt, radii, M.T, levels=[1.6, 1.8, 2.0, 2.2, 2.4],
-                            colors="white", linewidths=0.5, alpha=0.75)
-            ax.clabel(cs, inline=True, fontsize=6, fmt="%.1f")
-            cb = fig.colorbar(pc, ax=ax, pad=0.02)
-            cb.set_ticks([1.6, 2.0, 2.4]); cb.set_ticklabels(["1.6", "2.0", "2.4"])
-            cb.minorticks_off()
-        else:
-            pc = ax.pcolormesh(tt, radii, M.T, cmap=cmap, shading="auto")
-            pc.set_rasterized(True)
-            cb = fig.colorbar(pc, ax=ax, pad=0.02)
+        pc = ax.pcolormesh(tt, radii, M.T, cmap=cmap, shading="auto")
+        pc.set_rasterized(True)
+        cb = fig.colorbar(pc, ax=ax, pad=0.02)
         cb.set_label(lab, fontsize=9)
         ax.set_xlabel("时间 $t$ / min")
         if i == 0:
