@@ -1,0 +1,185 @@
+{
+  "runs": [
+    {
+      "N": 100,
+      "dt_s": 0.5,
+      "attained": true,
+      "t_dry_s": 207358.0,
+      "t_dry_h": 57.599444444444444,
+      "last_time_s": 207358.0,
+      "previous_time_s": 207357.5,
+      "previous_max_C": 0.15000001832066306,
+      "domain_max_C": 0.14999987333478154,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "max_at_surface": false,
+      "center_C_extrapolated": 0.14999987333478154,
+      "surface_C": 0.05265306048276691,
+      "center_T_C": 50.00000000000006,
+      "surface_T_C": 50.00000000000009,
+      "first_crossing_bracket": true,
+      "cells_and_surface_below_threshold": true,
+      "extrapolated_center_below_threshold": true,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.12444098703117329,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "all_picard_converged": true,
+      "T_range_C": [
+        27.999999999999968,
+        50.0398512377855
+      ],
+      "C_range": [
+        0.05265306048276691,
+        2.5500000000000056
+      ],
+      "picard_min": 2,
+      "picard_max": 3,
+      "picard_histogram": {
+        "2": 283637,
+        "3": 131079
+      },
+      "environment_extension": "t<=14400 s: attachment1 linear interpolation; t>14400 s: T_inf=50 degC, C_inf=0.05"
+    },
+    {
+      "N": 100,
+      "dt_s": 1.0,
+      "attained": true,
+      "t_dry_s": 207360.0,
+      "t_dry_h": 57.6,
+      "last_time_s": 207360.0,
+      "previous_time_s": 207359.0,
+      "previous_max_C": 0.15000003881290444,
+      "domain_max_C": 0.14999974884227008,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "max_at_surface": false,
+      "center_C_extrapolated": 0.14999974884227008,
+      "surface_C": 0.05265305022852835,
+      "center_T_C": 50.000000000000156,
+      "surface_T_C": 50.0000000000001,
+      "first_crossing_bracket": true,
+      "cells_and_surface_below_threshold": true,
+      "extrapolated_center_below_threshold": true,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.12444089528370975,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "all_picard_converged": true,
+      "T_range_C": [
+        27.99999999999997,
+        50.0398398318819
+      ],
+      "C_range": [
+        0.05265305022852835,
+        2.5500000000000043
+      ],
+      "picard_min": 2,
+      "picard_max": 3,
+      "picard_histogram": {
+        "2": 125258,
+        "3": 82102
+      },
+      "environment_extension": "t<=14400 s: attachment1 linear interpolation; t>14400 s: T_inf=50 degC, C_inf=0.05"
+    },
+    {
+      "N": 200,
+      "dt_s": 1.0,
+      "attained": true,
+      "t_dry_s": 207066.0,
+      "t_dry_h": 57.51833333333333,
+      "last_time_s": 207066.0,
+      "previous_time_s": 207065.0,
+      "previous_max_C": 0.15000010568267155,
+      "domain_max_C": 0.14999981487229788,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "max_at_surface": false,
+      "center_C_extrapolated": 0.14999981487229788,
+      "surface_C": 0.05265801873890678,
+      "center_T_C": 50.00000000000057,
+      "surface_T_C": 50.00000000000007,
+      "first_crossing_bracket": true,
+      "cells_and_surface_below_threshold": true,
+      "extrapolated_center_below_threshold": true,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.12436539342613737,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "all_picard_converged": true,
+      "T_range_C": [
+        27.999999999999925,
+        50.03984263070504
+      ],
+      "C_range": [
+        0.05265801873890678,
+        2.5500000000000034
+      ],
+      "picard_min": 2,
+      "picard_max": 3,
+      "picard_histogram": {
+        "2": 109895,
+        "3": 97171
+      },
+      "environment_extension": "t<=14400 s: attachment1 linear interpolation; t>14400 s: T_inf=50 degC, C_inf=0.05"
+    },
+    {
+      "N": 50,
+      "dt_s": 1.0,
+      "attained": true,
+      "t_dry_s": 208077.0,
+      "t_dry_h": 57.799166666666665,
+      "last_time_s": 208077.0,
+      "previous_time_s": 208076.0,
+      "previous_max_C": 0.1500001228959881,
+      "domain_max_C": 0.1499998349304075,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "max_at_surface": false,
+      "center_C_extrapolated": 0.1499998349304075,
+      "surface_C": 0.052637315994450824,
+      "center_T_C": 49.999999999999986,
+      "surface_T_C": 50.0,
+      "first_crossing_bracket": true,
+      "cells_and_surface_below_threshold": true,
+      "extrapolated_center_below_threshold": true,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.12455271192967822,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "all_picard_converged": true,
+      "T_range_C": [
+        27.99999999999999,
+        50.039828647819576
+      ],
+      "C_range": [
+        0.052637315994450824,
+        2.5500000000000047
+      ],
+      "picard_min": 2,
+      "picard_max": 3,
+      "picard_histogram": {
+        "2": 138168,
+        "3": 69909
+      },
+      "environment_extension": "t<=14400 s: attachment1 linear interpolation; t>14400 s: T_inf=50 degC, C_inf=0.05"
+    }
+  ],
+  "drying_time_absolute_differences_s": {
+    "N50_N100": 717.0,
+    "N100_N200": 294.0,
+    "dt1_dt05": 2.0
+  }
+}

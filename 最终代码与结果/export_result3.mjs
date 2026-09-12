@@ -1,0 +1,23 @@
+// Preserve the official one-sheet template; no pictures are generated.
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {FileBlob, SpreadsheetFile} from '@oai/artifact-tool';
+const out=path.resolve(process.argv[2] ?? 'outputs/problem3');
+const data=JSON.parse(await fs.readFile(path.join(out,'xlsx_data.json'),'utf8'));
+const wb=await SpreadsheetFile.importXlsx(await FileBlob.load(data.template));
+const sheet=wb.worksheets.getItemAt(0);
+const label=sheet.getRange('A1').values[0][0];
+sheet.getRange('A1:F5').clear({applyTo:'contents'});
+sheet.getRange('A1:V1').values=[[label,...data.positions_cm]];
+const n=data.times.length+1;
+sheet.getRange(`A2:V${n}`).values=data.times.map((t,i)=>[t,...data.values[i]]);
+sheet.getRange('B1:V1').format.numberFormat='0.0';
+sheet.getRange(`A2:A${n}`).format.numberFormat='0';
+sheet.getRange(`B2:V${n}`).format.numberFormat='0.0000';
+sheet.getRange('A1').format.columnWidth=32;
+sheet.getRange('B1:V1').format.columnWidth=11;
+sheet.freezePanes.freezeRows(1);sheet.freezePanes.freezeColumns(1);
+wb.recalculate();
+console.log((await wb.inspect({kind:'table',range:`${sheet.name}!A${n}:V${n}`,maxChars:1000})).ndjson);
+await (await SpreadsheetFile.exportXlsx(wb)).save(path.join(out,'result3.xlsx'));
+console.log(`Saved ${path.join(out,'result3.xlsx')}`);

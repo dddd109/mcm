@@ -1,0 +1,9 @@
+{
+  "R_m": 0.02,
+  "N": 100,
+  "dt_s": 1,
+  "duration_s": 10800,
+  "max_abs_T_difference_C": 7.567280135845067e-13,
+  "max_abs_C_difference": 2.1760371282653068e-14,
+  "pass": true
+}

@@ -1,0 +1,8 @@
+{
+  "N": 100,
+  "dt_s": 1.0,
+  "iteration_histogram": {
+    "3": 10800
+  },
+  "unconverged_step_times_s": []
+}

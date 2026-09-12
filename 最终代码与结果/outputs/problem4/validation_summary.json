@@ -1,0 +1,211 @@
+{
+  "runs": [
+    {
+      "N": 100,
+      "dt_s": 0.5,
+      "attained": true,
+      "last_time_s": 184011.0,
+      "t_dry_s": 184011.0,
+      "t_dry_h": 51.11416666666667,
+      "previous_time_s": 184010.5,
+      "previous_max_C": 0.1500000354268167,
+      "domain_max_C": 0.14999977892133656,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "final_R_m": 0.012,
+      "final_R_cm": 1.2,
+      "center_C_extrapolated": 0.14999977892133656,
+      "surface_C": 0.05261860485201391,
+      "center_T_C": 50.00000000000001,
+      "surface_T_C": 49.99999999999991,
+      "first_crossing_bracket": true,
+      "extrapolated_center_below_threshold": true,
+      "radius_positive_finite": true,
+      "radius_initial_m": 0.02,
+      "radius_min_m": 0.012,
+      "radius_max_m": 0.02,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "all_picard_converged": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.11841858303185537,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "surface_C_below_center_fraction": 1.0,
+      "T_range_C": [
+        27.99999999999995,
+        50.050077476775655
+      ],
+      "C_range": [
+        0.05261860485201391,
+        2.5500000000000114
+      ],
+      "picard_histogram": {
+        "2": 220891,
+        "3": 147131
+      }
+    },
+    {
+      "N": 100,
+      "dt_s": 1.0,
+      "attained": true,
+      "last_time_s": 184012.0,
+      "t_dry_s": 184012.0,
+      "t_dry_h": 51.114444444444445,
+      "previous_time_s": 184011.0,
+      "previous_max_C": 0.1500003870837641,
+      "domain_max_C": 0.14999987407155618,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "final_R_m": 0.012,
+      "final_R_cm": 1.2,
+      "center_C_extrapolated": 0.14999987407155618,
+      "surface_C": 0.052618610488117876,
+      "center_T_C": 50.00000000000008,
+      "surface_T_C": 49.99999999999998,
+      "first_crossing_bracket": true,
+      "extrapolated_center_below_threshold": true,
+      "radius_positive_finite": true,
+      "radius_initial_m": 0.02,
+      "radius_min_m": 0.012,
+      "radius_max_m": 0.02,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "all_picard_converged": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.11841864658703413,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "surface_C_below_center_fraction": 1.0,
+      "T_range_C": [
+        27.999999999999947,
+        50.0500624404819
+      ],
+      "C_range": [
+        0.052618610488117876,
+        2.5500000000000096
+      ],
+      "picard_histogram": {
+        "2": 89740,
+        "3": 94272
+      },
+      "no_extrapolated_external_positions": true,
+      "empty_external_output_cells": 20106
+    },
+    {
+      "N": 200,
+      "dt_s": 1.0,
+      "attained": true,
+      "last_time_s": 183954.0,
+      "t_dry_s": 183954.0,
+      "t_dry_h": 51.098333333333336,
+      "previous_time_s": 183953.0,
+      "previous_max_C": 0.15000025089232596,
+      "domain_max_C": 0.14999973753796655,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "final_R_m": 0.012,
+      "final_R_cm": 1.2,
+      "center_C_extrapolated": 0.14999973753796655,
+      "surface_C": 0.05261973211760682,
+      "center_T_C": 49.99999999999988,
+      "surface_T_C": 49.99999999999977,
+      "first_crossing_bracket": true,
+      "extrapolated_center_below_threshold": true,
+      "radius_positive_finite": true,
+      "radius_initial_m": 0.02,
+      "radius_min_m": 0.012,
+      "radius_max_m": 0.02,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "all_picard_converged": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.11840999520484585,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "surface_C_below_center_fraction": 1.0,
+      "T_range_C": [
+        27.9999999999999,
+        50.05006684500885
+      ],
+      "C_range": [
+        0.05261973211760682,
+        2.550000000000011
+      ],
+      "picard_histogram": {
+        "2": 71635,
+        "3": 112319
+      }
+    },
+    {
+      "N": 50,
+      "dt_s": 1.0,
+      "attained": true,
+      "last_time_s": 184174.0,
+      "t_dry_s": 184174.0,
+      "t_dry_h": 51.159444444444446,
+      "previous_time_s": 184173.0,
+      "previous_max_C": 0.15000040526860625,
+      "domain_max_C": 0.1499998932381554,
+      "max_index": -1,
+      "max_radius_m": 0.0,
+      "max_radius_cm": 0.0,
+      "final_R_m": 0.012,
+      "final_R_cm": 1.2,
+      "center_C_extrapolated": 0.1499998932381554,
+      "surface_C": 0.05261385622379227,
+      "center_T_C": 49.99999999999994,
+      "surface_T_C": 50.00000000000003,
+      "first_crossing_bracket": true,
+      "extrapolated_center_below_threshold": true,
+      "radius_positive_finite": true,
+      "radius_initial_m": 0.02,
+      "radius_min_m": 0.012,
+      "radius_max_m": 0.02,
+      "finite_all_steps": true,
+      "positive_C_all_steps": true,
+      "all_picard_converged": true,
+      "mean_C_initial": 2.55,
+      "mean_C_final": 0.11842559940068507,
+      "mean_C_increase_steps_tol_1e_12": 0,
+      "mean_C_overall_decreases": true,
+      "surface_C_below_center_fraction": 1.0,
+      "T_range_C": [
+        27.999999999999982,
+        50.05004480051828
+      ],
+      "C_range": [
+        0.05261385622379227,
+        2.550000000000014
+      ],
+      "picard_histogram": {
+        "2": 105207,
+        "3": 78967
+      }
+    }
+  ],
+  "fixed_radius": {
+    "R_m": 0.02,
+    "N": 100,
+    "dt_s": 1,
+    "duration_s": 10800,
+    "max_abs_T_difference_C": 7.567280135845067e-13,
+    "max_abs_C_difference": 2.1760371282653068e-14,
+    "pass": true
+  },
+  "time_differences_s": {
+    "N50_N100": 162.0,
+    "N100_N200": 58.0,
+    "dt1_dt05": 1.0
+  },
+  "q3_comparison": {
+    "q3_t_dry_s": 207360.0,
+    "q4_t_dry_s": 184012.0,
+    "delta_s": -23348.0,
+    "delta_h": -6.485555555555556,
+    "relative_change": -0.11259645061728395
+  }
+}
