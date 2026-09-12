@@ -10,7 +10,8 @@ import openpyxl
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from matplotlib.patches import Rectangle, Ellipse, FancyArrowPatch, Circle, FancyArrow
+from matplotlib.patches import Rectangle, Ellipse, FancyArrowPatch, Circle, FancyArrow, Polygon, Wedge
+from matplotlib.colors import PowerNorm, LogNorm
 
 SKILL = r"C:\Users\AD\.config\opencode\skills\mcm-plot"
 sys.path.insert(0, SKILL)
@@ -107,23 +108,48 @@ def fig01():
                 arrowprops=dict(arrowstyle="<->", color="#222222", lw=0.9))
     ax.text(5.0, 0.72, "长度 $L=25$ cm", ha="center", fontsize=8.5)
 
-    # ---- (b) 微元控制体与通量平衡 ----
+    # ---- (b) 扇形圆环微元与径向通量平衡 ----
     ax = axs[0, 1]
-    ax.set_title("(b) 微元控制体与通量平衡", loc="left", fontsize=9.5)
-    ax.add_patch(Rectangle((3.2, 2.0), 3.6, 2.6, facecolor="#EDEDED",
-                           edgecolor="#222222", lw=1.0))
-    ax.annotate("", xy=(3.2, 3.3), xytext=(2.35, 3.3),
+    ax.set_title("(b) 扇形圆环微元与径向通量平衡", loc="left", fontsize=9.5)
+    O = (5.0, 0.75)
+    r_in, r_out = 2.05, 3.45
+    th1, th2 = 26, 154
+    ths = np.linspace(np.deg2rad(th1), np.deg2rad(th2), 90)
+    outer = [(O[0] + r_out * np.cos(a), O[1] + r_out * np.sin(a)) for a in ths]
+    inner = [(O[0] + r_in * np.cos(a), O[1] + r_in * np.sin(a)) for a in ths][::-1]
+    ax.add_patch(Polygon(outer + inner, closed=True, facecolor="#EDEDED",
+                         edgecolor="#222222", lw=1.0))
+    ax.plot([O[0]], [O[1]], "o", color="#222222", ms=3.5)
+    for a in (np.deg2rad(th1), np.deg2rad(th2)):
+        ax.plot([O[0], O[0] + r_out * np.cos(a)], [O[1], O[1] + r_out * np.sin(a)],
+                color="#222222", lw=0.9)
+    # 径向虚线 + r / r+dr / dr 标注（放在左上方，避开通量箭头）
+    am = np.deg2rad(122)
+    ax.plot([O[0], O[0] + r_out * np.cos(am)], [O[1], O[1] + r_out * np.sin(am)],
+            ls=(0, (4, 3)), color="#888888", lw=0.8)
+    ax.text(O[0] + (r_in * 0.6) * np.cos(am) - 0.08,
+            O[1] + (r_in * 0.6) * np.sin(am),
+            "$r$", fontsize=9, color="#333333", ha="right", va="center")
+    ax.text(O[0] + (r_out * 0.92) * np.cos(am) - 0.05,
+            O[1] + (r_out * 0.92) * np.sin(am) + 0.06,
+            "$r{+}\\mathrm{d}r$", fontsize=8.5, color="#333333", ha="right", va="center")
+    ax.text(O[0] + ((r_in + r_out) / 2) * np.cos(am) + 0.14,
+            O[1] + ((r_in + r_out) / 2) * np.sin(am) - 0.02,
+            "$\\mathrm{d}r$", fontsize=8, color="#333333", ha="left", va="center")
+    # 圆心角标注
+    ax.text(O[0] + 0.55, O[1] + 0.5, "$\\mathrm{d}\\theta$", fontsize=8, color="#666666")
+    # 径向通量：内弧进入、外弧流出（竖直方向）
+    xin, yin = O[0], O[1] + r_in
+    xout, yout = O[0], O[1] + r_out
+    ax.annotate("", xy=(xin, yin + 0.12), xytext=(xin, yin - 0.55),
                 arrowprops=dict(arrowstyle="-|>", color=COLORS["red"], lw=1.2))
-    ax.text(2.25, 3.3, "$q_T(r)$\n$J_C(r)$", ha="right", va="center", fontsize=7.8,
-            color=COLORS["red"])
-    ax.annotate("", xy=(7.65, 3.3), xytext=(6.8, 3.3),
+    ax.text(xin - 0.12, yin - 0.28, "$q_T(r)$\n$J_C(r)$", ha="right", va="center",
+            fontsize=7.8, color=COLORS["red"])
+    ax.annotate("", xy=(xout, yout + 0.55), xytext=(xout, yout - 0.12),
                 arrowprops=dict(arrowstyle="-|>", color=COLORS["red"], lw=1.2))
-    ax.text(7.75, 3.3, "$q_T(r{+}\\mathrm{d}r)$\n$J_C(r{+}\\mathrm{d}r)$",
+    ax.text(xout + 0.12, yout + 0.28, "$q_T(r{+}\\mathrm{d}r)$\n$J_C(r{+}\\mathrm{d}r)$",
             ha="left", va="center", fontsize=7.8, color=COLORS["red"])
-    ax.annotate("", xy=(6.8, 4.9), xytext=(3.2, 4.9),
-                arrowprops=dict(arrowstyle="<->", color="#222222", lw=0.9))
-    ax.text(5.0, 5.05, "$\\mathrm{d}r$", ha="center", fontsize=9.5)
-    ax.text(5.0, 2.3, "控制体 $2\\pi rL\\,\\mathrm{d}r$", ha="center", fontsize=8.3,
+    ax.text(5.0, 5.35, "环形控制体 $2\\pi rL\\,\\mathrm{d}r$", ha="center", fontsize=8.3,
             color="#333333")
 
     # ---- (c) 表面对流边界 ----
@@ -181,7 +207,7 @@ def fig01():
 
     emit(fig, "fig01_模型示意图.png", "图 1", "圆柱药材二维轴对称传热-传质模型与边界条件示意",
          detail="侧面与两端面均为对流边界，$r$ 为到中轴距离；环境条件取自附件 1",
-         result="热扩散时标 ~40 min、湿扩散时标 ~天量级，两尺度分离", vs_patch=False)
+         result="热扩散特征时间约 40 min、湿扩散约数天，二者时间尺度分离", vs_patch=False)
 
 
 # ============================================================ 图2 问题一 时空场
@@ -191,12 +217,25 @@ def fig02():
     fig.subplots_adjust(bottom=0.24, top=0.84, wspace=0.34)
     for i, (ax, sh, cmap, lab) in enumerate(
             ((axs[0], "温度", CMAP_T, "温度 $T$ / $^\\circ$C"),
-             (axs[1], "水分浓度", CMAP_C, "含水率 $C$ / (kg$\\cdot$kg$^{-1}$)"))):
+             (axs[1], "水分浓度", CMAP_C, "含水率 $\\log_{10}C$ / (kg$\\cdot$kg$^{-1}$)"))):
         t, labels, radii, M = d[sh]
         tt = t / 60.0
-        pc = ax.pcolormesh(tt, radii, M.T, cmap=cmap, shading="auto")
-        pc.set_rasterized(True)
-        cb = fig.colorbar(pc, ax=ax, pad=0.02)
+        vmin, vmax = float(np.nanmin(M)), float(np.nanmax(M))
+        # 含水率场数值集中在表面干燥层：对数归一化拉开中低值区 + 等值线标干燥前沿
+        if i == 1:
+            pc = ax.pcolormesh(tt, radii, M.T, cmap=cmap, shading="auto",
+                               norm=LogNorm(vmin=max(vmin, 1e-3), vmax=vmax))
+            pc.set_rasterized(True)
+            cs = ax.contour(tt, radii, M.T, levels=[1.6, 1.8, 2.0, 2.2, 2.4],
+                            colors="white", linewidths=0.5, alpha=0.75)
+            ax.clabel(cs, inline=True, fontsize=6, fmt="%.1f")
+            cb = fig.colorbar(pc, ax=ax, pad=0.02)
+            cb.set_ticks([1.6, 2.0, 2.4]); cb.set_ticklabels(["1.6", "2.0", "2.4"])
+            cb.minorticks_off()
+        else:
+            pc = ax.pcolormesh(tt, radii, M.T, cmap=cmap, shading="auto")
+            pc.set_rasterized(True)
+            cb = fig.colorbar(pc, ax=ax, pad=0.02)
         cb.set_label(lab, fontsize=9)
         ax.set_xlabel("时间 $t$ / min")
         if i == 0:
@@ -245,10 +284,20 @@ def fig04():
     fig.subplots_adjust(bottom=0.24, top=0.84, wspace=0.34)
     for i, (ax, Z, cmap, lab) in enumerate(
             ((axs[0], T, CMAP_T, "温度 $T$ / $^\\circ$C"),
-             (axs[1], C, CMAP_C, "含水率 $C$ / (kg$\\cdot$kg$^{-1}$)"))):
-        pc = ax.pcolormesh(t[sl] / 3600.0, rc[rsl], Z[sl, rsl].T, cmap=cmap, shading="auto")
+             (axs[1], C, CMAP_C, "含水率 $\\log_{10}C$ / (kg$\\cdot$kg$^{-1}$)"))):
+        vmin, vmax = float(np.nanmin(Z)), float(np.nanmax(Z))
+        if i == 1:
+            pc = ax.pcolormesh(t[sl] / 3600.0, rc[rsl], Z[sl, rsl].T, cmap=cmap,
+                               shading="auto",
+                               norm=LogNorm(vmin=max(vmin, 1e-3), vmax=vmax))
+        else:
+            pc = ax.pcolormesh(t[sl] / 3600.0, rc[rsl], Z[sl, rsl].T, cmap=cmap,
+                               shading="auto")
         pc.set_rasterized(True)
         cb = fig.colorbar(pc, ax=ax, pad=0.02); cb.set_label(lab, fontsize=9)
+        if i == 1:
+            cb.set_ticks([0.2, 0.5, 1.0, 2.0]); cb.set_ticklabels(["0.2", "0.5", "1.0", "2.0"])
+            cb.minorticks_off()
         ax.set_xlabel("时间 $t$ / h")
         if i == 0:
             ax.set_ylabel("到药材中心距离 $r$ / cm")
@@ -295,9 +344,16 @@ def fig06():
     d = load_xlsx(os.path.join(B, "problem3", "result3.xlsx"), ["Sheet1"])
     t, labels, radii, M = d["Sheet1"]
     fig, ax = new_axes(6.4, 0.62)
-    pc = ax.pcolormesh(t / 3600.0, radii, M.T, cmap=CMAP_C, shading="auto")
+    # 含水率由 2.55 缓慢降到 0.15，低值区占主导：用对数归一化拉开低值/干燥前沿
+    vmin, vmax = float(np.nanmin(M)), float(np.nanmax(M))
+    pc = ax.pcolormesh(t / 3600.0, radii, M.T, cmap=CMAP_C, shading="auto",
+                       norm=LogNorm(vmin=max(vmin, 1e-3), vmax=vmax))
     pc.set_rasterized(True)
-    cb = fig.colorbar(pc, ax=ax, pad=0.02); cb.set_label("含水率 $C$ / (kg$\\cdot$kg$^{-1}$)", fontsize=9)
+    cb = fig.colorbar(pc, ax=ax, pad=0.02)
+    cb.set_label("含水率 $\\log_{10}C$ / (kg$\\cdot$kg$^{-1}$)", fontsize=9)
+    cb.set_ticks([0.2, 0.5, 1.0, 2.0])
+    cb.set_ticklabels(["0.2", "0.5", "1.0", "2.0"])
+    cb.minorticks_off()
     td = 207360 / 3600.0
     ax.axvline(td, color=COLORS["red"], lw=1.3, ls="--")
     ax.text(td - 1.0, 1.85, f"$t_d={td:.1f}\\,$h", color=COLORS["red"], ha="right", fontsize=9)
